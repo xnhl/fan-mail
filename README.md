@@ -29,54 +29,57 @@
 
 ### Timeline of Events
 
-- April 20 2022 I logged into GitHub and saw a notification that on April 18 someone had started following my account: <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a>
-- A few days later after logging in again I noticed that MrXyfir had unfollowed me.
+- April 20 2022 I logged into GitHub and saw a notification that on April 18 <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a> had started following my account.
+- A few days later after logging in again I noticed that <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a> had unfollowed me.
 	- Had he followed me by mistake?
 	- Had he seen something which he did not like?
 		- Perhaps my <a href="https://github.com/xnhl/riots" target="_blank">riots</a> project?
-			- My personal archives of repository info (with views, clones, et cetera) reveal that there was one view of my riots project on April 18 (the day MrXyfir began following me).
+			- My personal archives of repository info (with views, clones, et cetera) reveal that there was one view of my riots project on April 18 (the day <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a> began following me).
 		- I imagine that <a href="https://cata-list.github.io" target="_blank">cata-list</a> has also earned me some enemies and could be a possibility.
 	- Presumably, this is when he began plotting his genius 4D-chess strategy to extort me.
 - I thought nothing more of this until 19 days later on May 7 when I received the <a href="#message-received">strange e-mail</a> from a truly dizzying intellect.
 	- The first thing which struck me about the e-mail was the sender/return address: mwtheta@mwtheta.net
 		- Address does not exist which reveals that the skillset of the sender includes spoofing addresses and anonymously sending e-mail.
-- Recalling the recent and strange follow/unfollow of <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a> I checked out his GitHub page and found that one of his pinned repositories is <a href="https://github.com/xyfir/ptorx" target="_blank">ptorx</a> from another GitHub account which he also presumably owns: <a href="https://github.com/xyfir" target="_blank">xyfir</a>
+- Recalling the recent and strange follow/unfollow of <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a> I checked out his GitHub page and found that one of his pinned repositories is <a href="https://github.com/xyfir/ptorx" target="_blank">ptorx</a> which is owned by <a href="https://github.com/xyfir" target="_blank">xyfir</a> (which he also presumably operates).
 	- <a href="https://github.com/xyfir/ptorx" target="_blank">ptorx</a> enables users to: "Send and receive mail without using your real email address", "Anonymously forward and send mail with email forwarding and aliases".
 		- <a href="https://www.youtube.com/watch?v=3YmMNpbFjp0" target="_blank">thatwaseasy.mp3</a>
 - No other e-mail was received at Protonmail address for months before/after this message.
 	- Another reason to believe that these events are connected.
-- MrXyfir seems to be the only reasonable suspect at this time.
+- <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a> seems to be the only reasonable suspect at this time.
 
 
 ### Personal Details of Suspect
 
 - <a href="#message-received">Writing sample.</a>
 - Location (via GitHub): California, United States.
+	- And/or Japan (specifically Tokyo)? [connection with <a href="https://github.com/mzch" target="_blank">Koichi Matsumoto</a>]
 - Occupation: Developer? Repositories indicate experience with React.
 - Adorable bluffing skills of a small child.
 - Able and willing to send spoofed / anonymous e-mail.
-- npm-download-faker repository reveals willingness to create fake information for personal gain.
+- <a href="https://github.com/MrXyfir/npm-download-faker" target="_blank">npm-download-faker</a> repository reveals willingness to create fake information for personal gain.
 - Willingness to extort strangers.
 	- Presumably based on differing political views, in this case.
 - Username (Mr. Cypher) and plain black GitHub avatar suggest desire to conceal personal information.
 	- Reasonable in the time / society we live in, but suggestive in light of other details like attempted extortion.
 - Moderate understanding of English, but it seems likely that it is his second language which suggests that he is not white.
-	- Surname of known associate is Matsumoto (Japanese). Perhaps MrXyfir/xyfir is Japanese as well.
+	- Surname of known associate is Matsumoto (Japanese). Perhaps <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a>/<a href="https://github.com/xyfir" target="_blank">xyfir</a> is Japanese as well.
 - Somewhat versed in cryptocurrency usage.
 	- Bitcoin wallet (for tracking past/future use): bc1q033cjppaea0c2xvw6mwz7c3uf2f3dt9y9ssrx6
-- Official Website: https://www.xyfir.com/
+- Official website: https://www.xyfir.com/
+- An e-mail address: mr@xyfir.com
+	- I believe anything@xyfir.com should reach him since he owns the domain.
 - Reddit account: https://www.reddit.com/user/MrXyfir
 - Twitter account: https://twitter.com/MrXyfir
 - Fandom account (Kingkiller Series): https://kingkiller.fandom.com/wiki/User:MrXyfir
-	- Motivation to become involed with the community for a series of novels suggests that it made a strong positive impact on him.
-		- This suggests support for / identification with <a href="https://kingkiller.fandom.com/wiki/Kvothe" target="_blank">Kvothe</a> (the hero and protagonist), though, ironically, extortion would seem to suggest MrXyfir is more of an <a href="https://kingkiller.fandom.com/wiki/Ambrose_Jakis" target="_blank">Ambrose</a> (the antagonist, bully).
+	- Motivation to become involved with the community for a series of novels suggests that it made a strong positive impact on him.
+		- This suggests support for / identification with <a href="https://kingkiller.fandom.com/wiki/Kvothe" target="_blank">Kvothe</a> (the hero and protagonist), though, ironically, extortion would seem to suggest <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a> is more of an <a href="https://kingkiller.fandom.com/wiki/Ambrose_Jakis" target="_blank">Ambrose</a> (an antagonist & bully).
 		- I have also read and enjoyed the series (not for the purposes of this document) and so understand the characters.
 - Association with Koichi Matsumoto
 	- Only other contributor to <a href="https://github.com/xyfir/ptorx" target="_blank">ptorx</a> beside <a href="https://github.com/xyfir" target="_blank">xyfir</a>
 	- GitHub account: <a href="https://github.com/mzch" target="_blank">mzch</a>
 	- Possible LinkedIn account: <a href="https://jp.linkedin.com/in/koichimatsumotoprofile" target="_blank">Here</a>
 		- Details match expectations: Frontend Developer in Tokyo, Japan.
-	- If he is not MrXyfir/xyfir then he probably knows who is.
+	- If he is not <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a>/<a href="https://github.com/xyfir" target="_blank">xyfir</a> then he probably knows who is.
 - Strong focus on sexual strategy for extortion
 	- Could just be the easy and common route.
 	- Could suggest that his accusations are confession through projection and he has got some weird shit going on in that cavernous cranium.
