@@ -36,6 +36,7 @@
 		- Perhaps my <a href="https://github.com/xnhl/riots" target="_blank">riots</a> project?
 			- My personal archives of repository info (with views, clones, et cetera) reveal that there was one view of my riots project on April 18 (the day <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a> began following me).
 		- I imagine that <a href="https://cata-list.github.io" target="_blank">cata-list</a> has also earned me some enemies and could be a possibility.
+		- My public support of the Canadian truckers' Freedom Convoy & protests (2022) on Twitter account for cata-list
 	- Presumably, this is when he began plotting his genius 4D-chess strategy to extort me.
 - I thought nothing more of this until 19 days later on May 7 when I received the <a href="#message-received">strange e-mail</a> from a truly dizzying intellect.
 	- The first thing which struck me about the e-mail was the sender/return address: mwtheta@mwtheta.net
@@ -46,14 +47,26 @@
 - No other e-mail was received at Protonmail address for months before/after this message.
 	- Another reason to believe that these events are connected.
 - <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a> seems to be the only reasonable suspect at this time.
+- Further developments will follow.
 
 
 ### Personal Details of Suspect
 
-- <a href="#message-received">Writing sample.</a>
-- Location (via GitHub): California, United States.
-	- And/or Japan (specifically Tokyo)? [connection with <a href="https://github.com/mzch" target="_blank">Koichi Matsumoto</a>]
-- Occupation: Developer? Repositories indicate experience with React.
+- Possible identities:
+	- Christopher Fietz
+	- Koichi Matsumoto
+	- Group/team rather than individual?
+- Location
+	- GitHub page says California, United States.
+		- https://github.com/MrXyfir
+	- Possible LinkedIn profile says Calgary, Alberta, Canada
+		- https://ca.linkedin.com/in/cwfietz
+	- Japan a possibility (specifically Tokyo)?
+		- See connection with <a href="https://github.com/mzch" target="_blank">Koichi Matsumoto</a>
+- Occupation:
+	- Developer? Repositories indicate experience with React.
+	- Possible LinkedIn account says Full Stack Software Developer
+		- https://ca.linkedin.com/in/cwfietz
 - Adorable bluffing skills of a small child.
 - Able and willing to send spoofed / anonymous e-mail.
 - <a href="https://github.com/MrXyfir/npm-download-faker" target="_blank">npm-download-faker</a> repository reveals willingness to create fake information for personal gain.
@@ -65,19 +78,58 @@
 	- Surname of known associate is Matsumoto (Japanese). Perhaps <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a>/<a href="https://github.com/xyfir" target="_blank">xyfir</a> is Japanese as well.
 - Somewhat versed in cryptocurrency usage.
 	- Bitcoin wallet (for tracking past/future use): bc1q033cjppaea0c2xvw6mwz7c3uf2f3dt9y9ssrx6
+- <a href="#message-received">Writing sample.</a>
 - Official website: https://www.xyfir.com/
+- GitHub gists: https://gist.github.com/MrXyfir
+- Keybase: https://keybase.io/xyfir
+- Fiverr: https://www.fiverr.com/mrxyfir
+- bytemeta: https://bytemeta.vip/@MrXyfir
+- Crunchbase: https://www.crunchbase.com/organization/xyfir
+- Ptorx Website: https://alias.gdn/info
+- npm packages: https://www.npmjs.com/~xyfir
 - An e-mail address: mr@xyfir.com
+	- Used to push to a repository
 	- I believe anything@xyfir.com should reach him since he owns the domain.
 - Reddit account: https://www.reddit.com/user/MrXyfir
-- Twitter account: https://twitter.com/MrXyfir
-- Fandom account (Kingkiller Series): https://kingkiller.fandom.com/wiki/User:MrXyfir
-	- Motivation to become involved with the community for a series of novels suggests that it made a strong positive impact on him.
-		- This suggests support for / identification with <a href="https://kingkiller.fandom.com/wiki/Kvothe" target="_blank">Kvothe</a> (the hero and protagonist), though, ironically, extortion would seem to suggest <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a> is more of an <a href="https://kingkiller.fandom.com/wiki/Ambrose_Jakis" target="_blank">Ambrose</a> (an antagonist & bully).
-		- I have also read and enjoyed the series (not for the purposes of this document) and so understand the characters.
+	- Some potentially interesting things happening there.
+		- Member since January 2, 2016
+		- Was a mod of Gift Card Trading (GCTrading) subreddit:  https://www.reddit.com/r/GCTrading/
+		- Also at least a member of subreddit Gift Card Trading Rep (GCTRep):  https://www.reddit.com/r/GCTRep/
+		- Traded Bitcoin / Amazon balances with other users
+			- https://www.reddit.com/user/podgoorsky/
+			- https://www.reddit.com/user/freshnupwithme/
+		- Stats say ~$3,472 in trades since January 2, 2016
+- The Tolkien Forum: https://www.thetolkienforum.com/members/mrxyfir.16326/
+- Fandom account:
+	- A Wheel of Time: https://wot.fandom.com/wiki/User:MrXyfir
+	- (Kingkiller Series): https://kingkiller.fandom.com/wiki/User:MrXyfir
+		- Motivation to become involved with the community for a series of novels suggests that it made a strong positive impact on him.
+			- This suggests support for / identification with <a href="https://kingkiller.fandom.com/wiki/Kvothe" target="_blank">Kvothe</a> (the hero and protagonist), though, ironically, extortion would seem to suggest <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a> is more of an <a href="https://kingkiller.fandom.com/wiki/Ambrose_Jakis" target="_blank">Ambrose</a> (an antagonist & bully).
+			- I have also read and enjoyed the series (not for the purposes of this document) and so understand the characters.
+- Twitter:
+	- https://twitter.com/MrXyfir
+	- Possible alternate: https://twitter.com/xyfir
+		- Unique name matches: xyfir
+		- Full-stack developer (matches other info)
+		- If this is <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a>/<a href="https://github.com/xyfir" target="_blank">xyfir</a>, then:
+			- Legal name: **Christopher Fietz**
+			- Possible LinkedIn account: https://ca.linkedin.com/in/cwfietz
+				- See <a href="#screenshots">screenshots</a>
+				- Full-stack developer
+				- Location: Calgary, Alberta, Canada
+					- Does not match other data, but:
+						- Only 3 other Christopher Fietz on LinkedIn
+						- Web search "christopher fietz developer full stack" gives this account as first result
+						- Potential motive if <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a>/<a href="https://github.com/xyfir" target="_blank">xyfir</a> is Canadian: I publicly supported the Canadian truckers' Freedom Convoy & protests (2022) via my Twitter account for cata-list
+							- Many/most supporters who sent money to organizations helping them were doxxed and then predictably harassed by journalists and others (as was the point).
+				- Lack of profile image (or at least not publicly visible)
+					- Could indicate caring about privacy more than the average person.
+					- Benign unless coupled with facts like attempted extortion.
+					- Recall plain black GitHub image for <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a>/<a href="https://github.com/xyfir" target="_blank">xyfir</a>
 - Association with Koichi Matsumoto
 	- Only other contributor to <a href="https://github.com/xyfir/ptorx" target="_blank">ptorx</a> beside <a href="https://github.com/xyfir" target="_blank">xyfir</a>
 	- GitHub account: <a href="https://github.com/mzch" target="_blank">mzch</a>
-	- Possible LinkedIn account: <a href="https://jp.linkedin.com/in/koichimatsumotoprofile" target="_blank">Here</a>
+	- Possible LinkedIn account: https://jp.linkedin.com/in/koichimatsumotoprofile
 		- Details match expectations: Frontend Developer in Tokyo, Japan.
 	- If he is not <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a>/<a href="https://github.com/xyfir" target="_blank">xyfir</a> then he probably knows who is.
 - Strong focus on sexual strategy for extortion
@@ -178,34 +230,46 @@ One last advice from me  recurrently change all your passwords from all accoun
 
 ### Screenshots
 <figure id="image-1" style="margin: 1rem 1rem 2rem 1rem;">
-	<img src="./images/MrXyfir_follow.png" alt="Placeholder" style="border-radius: 0.5rem;">
+	<img src="./images/MrXyfir_follow.png" style="border-radius: 0.5rem;">
 	<figcaption>MrXyfir follow on April 18 2022</figcaption>
 </figure>
 <figure id="image-2" style="margin: 1rem 1rem 2rem 1rem;">
-	<img src="./images/email.png" alt="Placeholder" style="border-radius: 0.5rem;">
+	<img src="./images/email.png" style="border-radius: 0.5rem;">
 	<figcaption>E-mail on May 7 2022</figcaption>
 </figure>
 <figure id="image-3" style="margin: 1rem 1rem 2rem 1rem;">
-	<img src="./images/MrXyfir1.png" alt="Placeholder" style="border-radius: 0.5rem;">
+	<img src="./images/MrXyfir1.png" style="border-radius: 0.5rem;">
 	<figcaption>MrXyfir location, some social media accounts</figcaption>
 </figure>
 <figure id="image-4" style="margin: 1rem 1rem 2rem 1rem;">
-	<img src="./images/MrXyfir2.png" alt="Placeholder" style="border-radius: 0.5rem;">
+	<img src="./images/MrXyfir2.png" style="border-radius: 0.5rem;">
 	<figcaption>MrXyfir pinned repositories (including ptorx)</figcaption>
 </figure>
 <figure id="image-5" style="margin: 1rem 1rem 2rem 1rem;">
-	<img src="./images/MrXyfir3.png" alt="Placeholder" style="border-radius: 0.5rem;">
+	<img src="./images/MrXyfir3.png" style="border-radius: 0.5rem;">
 	<figcaption>xyfir location, website, pinned repositories (including ptorx)</figcaption>
 </figure>
 <figure id="image-6" style="margin: 1rem 1rem 2rem 1rem;">
-	<img src="./images/MrXyfir4.png" alt="Placeholder" style="border-radius: 0.5rem;">
+	<img src="./images/MrXyfir4.png" style="border-radius: 0.5rem;">
 	<figcaption>MrXyfir repositories</figcaption>
 </figure>
 <figure id="image-7" style="margin: 1rem 1rem 2rem 1rem;">
-	<img src="./images/ptorx.png" alt="Placeholder" style="border-radius: 0.5rem;">
+	<img src="./images/ptorx.png" style="border-radius: 0.5rem;">
 	<figcaption>ptorx</figcaption>
 </figure>
 <figure id="image-8" style="margin: 1rem 1rem 2rem 1rem;">
-	<img src="./images/ptorx_contributors.png" alt="Placeholder" style="border-radius: 0.5rem;">
+	<img src="./images/ptorx_contributors.png" style="border-radius: 0.5rem;">
 	<figcaption>ptorx contributors</figcaption>
+</figure>
+<figure id="image-9" style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/16326.jpg" style="border-radius: 0.5rem;">
+	<figcaption>xyfir logo</figcaption>
+</figure>
+<figure id="image-10" style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/linkedin_christopher_fietz.png" style="border-radius: 0.5rem;">
+	<figcaption>LinkedIn - Christopher Fietz</figcaption>
+</figure>
+<figure id="image-11" style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/linkedin_koichi_matsumoto.png" style="border-radius: 0.5rem;">
+	<figcaption>LinkedIn - Koichi Matsumoto</figcaption>
 </figure>
