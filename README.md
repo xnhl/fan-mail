@@ -53,40 +53,58 @@
 ### Personal Details of Suspect
 
 - Possible identities:
-	- Christopher Fietz
+	- **Christopher Fietz**
 	- Koichi Matsumoto
 	- Group/team rather than individual?
 - Location
-	- GitHub page says California, United States.
+	- GitHub page and Twitter say California, United States.
 		- https://github.com/MrXyfir
+		- https://twitter.com/MrXyfir
 	- Possible LinkedIn profile says Calgary, Alberta, Canada
 		- https://ca.linkedin.com/in/cwfietz
+		- Could be dual citizen. 
 	- Japan a possibility (specifically Tokyo)?
 		- See connection with <a href="https://github.com/mzch" target="_blank">Koichi Matsumoto</a>
 - Occupation:
-	- Developer? Repositories indicate experience with React.
-	- Possible LinkedIn account says Full Stack Software Developer
-		- https://ca.linkedin.com/in/cwfietz
+	- Developer? GitHub repositories indicate experience with React.
+	- LinkedIn for Christopher Fietz indicates experience with React.
+		- See screenshot or link: https://ca.linkedin.com/in/cwfietz
+		- Also says he works as a "Full Stack Software Developer"
+		- Therefore: GitHub and LinkedIn info match and strongly suggest connection.
+- <a href="#message-received">Writing sample.</a>
 - Adorable bluffing skills of a small child.
+- Possibly a <a href="https://www.urbandictionary.com/define.php?term=furry" target="_blank">furry</a> (see details and screenshots below).
 - Able and willing to send spoofed / anonymous e-mail.
 - <a href="https://github.com/MrXyfir/npm-download-faker" target="_blank">npm-download-faker</a> repository reveals willingness to create fake information for personal gain.
 - Willingness to extort strangers.
 	- Presumably based on differing political views, in this case.
+- Being able to spoof e-mail + creating fake information for personal gain + being willing to extort others suggest method of retaliation:
+	- He may attempt to create fake information about me and make it public (especially if all else fails).
 - Username (Mr. Cypher) and plain black GitHub avatar suggest desire to conceal personal information.
 	- Reasonable in the time / society we live in, but suggestive in light of other details like attempted extortion.
 - Moderate understanding of English, but it seems likely that it is his second language which suggests that he is not white.
+	- If working as team (as ptorx contributors list suggests) then perhaps Koichi Matsumoto wrote the message while Christopher Fietz is doing other work.
 	- Surname of known associate is Matsumoto (Japanese). Perhaps <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a>/<a href="https://github.com/xyfir" target="_blank">xyfir</a> is Japanese as well.
-- Somewhat versed in cryptocurrency usage.
+- Somewhat versed in cryptocurrency usage (at least Bitcoin).
 	- Bitcoin wallet (for tracking past/future use): bc1q033cjppaea0c2xvw6mwz7c3uf2f3dt9y9ssrx6
-- <a href="#message-received">Writing sample.</a>
-- Official website: https://www.xyfir.com/
-- GitHub gists: https://gist.github.com/MrXyfir
-- Keybase: https://keybase.io/xyfir
-- Fiverr: https://www.fiverr.com/mrxyfir
-- bytemeta: https://bytemeta.vip/@MrXyfir
-- Crunchbase: https://www.crunchbase.com/organization/xyfir
-- Ptorx Website: https://alias.gdn/info
-- npm packages: https://www.npmjs.com/~xyfir
+	- Made at least ~$3,472 in trades (Bitcoin for Amazon / other gift card balances) with other users on Reddit (see below)
+	- Bitcoin drastic value loss = potential motivation for initial message to me?
+		- Over roughly past 6 months Bitcoin has lost about half of its value
+		- A drastic loss started April 18 2022
+			- Same day as initial message to me
+			- See plateau on chart on April 17 2022 before drop
+			- See screenshot of bitcoinity website chart
+			- ~$41,000 before recent decline, now ~$20,700
+			- Link: https://data.bitcoinity.org/markets/price_volume/6m/USD?t=lb&vu=curr
+- Other Links
+	- Official website: https://www.xyfir.com/
+	- GitHub gists: https://gist.github.com/MrXyfir
+	- Keybase: https://keybase.io/xyfir
+	- Fiverr: https://www.fiverr.com/mrxyfir
+	- bytemeta: https://bytemeta.vip/@MrXyfir
+	- Crunchbase: https://www.crunchbase.com/organization/xyfir
+	- Ptorx Website: https://alias.gdn/info
+	- npm packages: https://www.npmjs.com/~xyfir
 - An e-mail address: mr@xyfir.com
 	- Used to push to a repository
 	- I believe anything@xyfir.com should reach him since he owns the domain.
@@ -98,7 +116,10 @@
 		- Traded Bitcoin / Amazon balances with other users
 			- https://www.reddit.com/user/podgoorsky/
 			- https://www.reddit.com/user/freshnupwithme/
-		- Stats say ~$3,472 in trades since January 2, 2016
+			- Stats say ~$3,472 in trades since January 2, 2016
+			- Indicates knowledge of Bitcoin usage.
+				- This fits nicely with the e-mail which I received.
+					- <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a>/<a href="https://github.com/xyfir" target="_blank">xyfir</a> kindly requests "$1370 USD" to be sent to "my bitcoin wallet provided below: bc1q033cjppaea0c2xvw6mwz7c3uf2f3dt9y9ssrx6"
 - The Tolkien Forum: https://www.thetolkienforum.com/members/mrxyfir.16326/
 - Fandom account:
 	- A Wheel of Time: https://wot.fandom.com/wiki/User:MrXyfir
@@ -108,9 +129,27 @@
 			- I have also read and enjoyed the series (not for the purposes of this document) and so understand the characters.
 - Twitter:
 	- https://twitter.com/MrXyfir
+		- Location: California, USA
+		- <a href="#screenshots">Screenshots</a> below
+		- Only Tweet: https://twitter.com/MrXyfir/status/1141013259887108097
+			- 11 likes
+				- <a href="https://twitter.com/darkpixlz" target="_blank">darkpixlz</a> (furry)
+				- <a href="https://twitter.com/NobleFurLyfe" target="_blank">NobleFurLyfe</a> (furry)
+				- <a href="https://twitter.com/megamastermanu" target="_blank">megamastermanu</a>
+				- <a href="https://twitter.com/sha_tiw" target="_blank">sha_tiw</a>
+				- <a href="https://twitter.com/Devtubel" target="_blank">Devtubel</a>
+				- <a href="https://twitter.com/TomatDividedBy0" target="_blank">TomatDividedBy0</a> ("vaguely ultra-left")
+				- <a href="https://twitter.com/k3llydev" target="_blank">k3llydev</a>
+				- <a href="https://twitter.com/lowfry" target="_blank">lowfry</a>
+				- <a href="https://twitter.com/PtorxMail" target="_blank">PtorxMail</a> (liked his own post)
+				- <a href="https://twitter.com/kojo_Swain" target="_blank">kojo_Swain</a>
+				- <a href="https://twitter.com/MrXyfir" target="_blank">MrXyfir</a> (liked his own post)
+		- Followers: <a href="https://twitter.com/oevrhgczAPcyoNf" target="_blank">oevrhgczAPcyoNf</a>, <a href="https://twitter.com/Soeparmadi" target="_blank">Soeparmadi</a>, <a href="https://twitter.com/dedhex_07" target="_blank">dedhex_07</a>, <a href="https://twitter.com/Cynethic" target="_blank">Cynethic</a>, <a href="https://twitter.com/yeahwemadeout" target="_blank">yeahwemadeout</a>, <a href="https://twitter.com/ditoruncausO" target="_blank">ditoruncausO</a>, <a href="https://twitter.com/Maxx464" target="_blank">Maxx464</a>, <a href="https://twitter.com/TetrAbysmal" target="_blank">TetrAbysmal</a>, <a href="https://twitter.com/NahuelDMt" target="_blank">NahuelDMt</a>, <a href="https://twitter.com/Scdingo1" target="_blank">Scdingo1</a>, <a href="https://twitter.com/blair_pass" target="_blank">blair_pass</a>, <a href="https://twitter.com/czwsaxde" target="_blank">czwsaxde</a>, <a href="https://twitter.com/ItsWilliam77" target="_blank">ItsWilliam77</a>, <a href="https://twitter.com/Ruz60908488" target="_blank">Ruz60908488</a>, <a href="https://twitter.com/NouSomeone" target="_blank">NouSomeone</a>, <a href="https://twitter.com/Emma__McCaw" target="_blank">Emma__McCaw</a>, <a href="https://twitter.com/rootslashbin" target="_blank">rootslashbin</a>, <a href="https://twitter.com/Husky_NZ" target="_blank">Husky_NZ</a>, <a href="https://twitter.com/jonasqalolino" target="_blank">jonasqalolino</a>, <a href="https://twitter.com/whosurkolchan" target="_blank">whosurkolchan</a>, <a href="https://twitter.com/Hel_lmYXX" target="_blank">Hel_lmYXX</a>, <a href="https://twitter.com/edon_palenchar" target="_blank">edon_palenchar</a>, <a href="https://twitter.com/_hopa_" target="_blank">_hopa_</a>, <a href="https://twitter.com/ClownMeebus" target="_blank">ClownMeebus</a>, <a href="https://twitter.com/JoeHan04889221" target="_blank">JoeHan04889221</a>, <a href="https://twitter.com/texaglo_techno" target="_blank">texaglo_techno</a>, <a href="https://twitter.com/MaloneyTyler" target="_blank">MaloneyTyler</a>, <a href="https://twitter.com/bieronym" target="_blank">bieronym</a>, <a href="https://twitter.com/NiklasInde" target="_blank">NiklasInde</a>, <a href="https://twitter.com/k3llydev" target="_blank">k3llydev</a>, <a href="https://twitter.com/jpoiatti" target="_blank">jpoiatti</a>, <a href="https://twitter.com/oivoodoo" target="_blank">oivoodoo</a>, <a href="https://twitter.com/w3debugger" target="_blank">w3debugger</a>, <a href="https://twitter.com/botykai_zsolt" target="_blank">botykai_zsolt</a>, <a href="https://twitter.com/alberto1el" target="_blank">alberto1el</a>, <a href="https://twitter.com/akaash19031973" target="_blank">akaash19031973</a>, <a href="https://twitter.com/flocca" target="_blank">flocca</a>, <a href="https://twitter.com/ivanhigueram" target="_blank">ivanhigueram</a>, <a href="https://twitter.com/Skarlso" target="_blank">Skarlso</a>, <a href="https://twitter.com/m4pp3rr" target="_blank">m4pp3rr</a>, <a href="https://twitter.com/emaraschio" target="_blank">emaraschio</a>, <a href="https://twitter.com/Bocard23" target="_blank">Bocard23</a>, <a href="https://twitter.com/iamshouvikmitra" target="_blank">iamshouvikmitra</a>, <a href="https://twitter.com/hoyes" target="_blank">hoyes</a>, <a href="https://twitter.com/dancarl857" target="_blank">dancarl857</a>, <a href="https://twitter.com/rounakdatta12" target="_blank">rounakdatta12</a>, <a href="https://twitter.com/TRex2218" target="_blank">TRex2218</a>, <a href="https://twitter.com/Finskou" target="_blank">Finskou</a>, <a href="https://twitter.com/vimfrw" target="_blank">vimfrw</a>, <a href="https://twitter.com/luukverhoeven" target="_blank">luukverhoeven</a>, <a href="https://twitter.com/illuminsight" target="_blank">illuminsight</a>, <a href="https://twitter.com/enullopa" target="_blank">enullopa</a>, <a href="https://twitter.com/xwellium" target="_blank">xwellium</a>, <a href="https://twitter.com/andrejnano" target="_blank">andrejnano</a>, <a href="https://twitter.com/PtorxMail" target="_blank">PtorxMail</a>
 	- Possible alternate: https://twitter.com/xyfir
 		- Unique name matches: xyfir
-		- Full-stack developer (matches other info)
+		- Full-stack developer
+			- Matches other info about <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a>/<a href="https://github.com/xyfir" target="_blank">xyfir</a>.
+				- Low probability that this is merely chance.
 		- If this is <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a>/<a href="https://github.com/xyfir" target="_blank">xyfir</a>, then:
 			- Legal name: **Christopher Fietz**
 			- Possible LinkedIn account: https://ca.linkedin.com/in/cwfietz
@@ -126,6 +165,10 @@
 					- Could indicate caring about privacy more than the average person.
 					- Benign unless coupled with facts like attempted extortion.
 					- Recall plain black GitHub image for <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a>/<a href="https://github.com/xyfir" target="_blank">xyfir</a>
+	- Ptorx Twitter: https://twitter.com/PtorxMail
+		- Location: California, USA
+		- Following MrXyfir
+		- Followers: <a href="https://twitter.com/augustodc25" target="_blank">augustodc25</a>, <a href="https://twitter.com/brchtz" target="_blank">brchtz</a>, <a href="https://twitter.com/AphexDigital" target="_blank">AphexDigital</a>, <a href="https://twitter.com/nagbabagotayo" target="_blank">nagbabagotayo</a>, <a href="https://twitter.com/SolucontaGuate" target="_blank">SolucontaGuate</a>, <a href="https://twitter.com/MrGerardoJunior" target="_blank">MrGerardoJunior</a>, <a href="https://twitter.com/anarchotaoist" target="_blank">anarchotaoist</a>, <a href="https://twitter.com/ZedStack" target="_blank">ZedStack</a>, <a href="https://twitter.com/illuminsight" target="_blank">illuminsight</a>, <a href="https://twitter.com/simran46271059" target="_blank">simran46271059</a>
 - Association with Koichi Matsumoto
 	- Only other contributor to <a href="https://github.com/xyfir/ptorx" target="_blank">ptorx</a> beside <a href="https://github.com/xyfir" target="_blank">xyfir</a>
 	- GitHub account: <a href="https://github.com/mzch" target="_blank">mzch</a>
@@ -135,6 +178,12 @@
 - Strong focus on sexual strategy for extortion
 	- Could just be the easy and common route.
 	- Could suggest that his accusations are confession through projection and he has got some weird shit going on in that cavernous cranium.
+	- The first two Twitter users who liked MrXyfir's only tweet are self-identified furries (see screenshot)
+		- <a href="https://twitter.com/Pixlz" target="_blank">Pixlz</a>, <a href="https://twitter.com/NobleFurLyfe" target="_blank">NobleFurLyfe</a>
+		- What is a furry?: https://www.urbandictionary.com/define.php?term=furry
+		- Does not mean that MrXyfir is a furry, but considering that the first two likes on his only tweet are from self-identifying furries I imagine that it is a strong possibility.
+			- MrXyfur(ry)?
+			- Could at least partially explain secretive nature.
 - Unique, noteworthy, identifying words/phrases/et cetera
 	- (o_0)!
 	- "Owh"
@@ -229,47 +278,171 @@ One last advice from me  recurrently change all your passwords from all accoun
 ```
 
 ### Screenshots
-<figure id="image-1" style="margin: 1rem 1rem 2rem 1rem;">
+<figure style="margin: 1rem 1rem 2rem 1rem;">
 	<img src="./images/MrXyfir_follow.png" style="border-radius: 0.5rem;">
 	<figcaption>MrXyfir follow on April 18 2022</figcaption>
 </figure>
-<figure id="image-2" style="margin: 1rem 1rem 2rem 1rem;">
+<figure style="margin: 1rem 1rem 2rem 1rem;">
 	<img src="./images/email.png" style="border-radius: 0.5rem;">
 	<figcaption>E-mail on May 7 2022</figcaption>
 </figure>
-<figure id="image-3" style="margin: 1rem 1rem 2rem 1rem;">
+<figure style="margin: 1rem 1rem 2rem 1rem;">
 	<img src="./images/MrXyfir1.png" style="border-radius: 0.5rem;">
 	<figcaption>MrXyfir location, some social media accounts</figcaption>
 </figure>
-<figure id="image-4" style="margin: 1rem 1rem 2rem 1rem;">
+<figure style="margin: 1rem 1rem 2rem 1rem;">
 	<img src="./images/MrXyfir2.png" style="border-radius: 0.5rem;">
 	<figcaption>MrXyfir pinned repositories (including ptorx)</figcaption>
 </figure>
-<figure id="image-5" style="margin: 1rem 1rem 2rem 1rem;">
+<figure style="margin: 1rem 1rem 2rem 1rem;">
 	<img src="./images/MrXyfir3.png" style="border-radius: 0.5rem;">
 	<figcaption>xyfir location, website, pinned repositories (including ptorx)</figcaption>
 </figure>
-<figure id="image-6" style="margin: 1rem 1rem 2rem 1rem;">
+<figure style="margin: 1rem 1rem 2rem 1rem;">
 	<img src="./images/MrXyfir4.png" style="border-radius: 0.5rem;">
 	<figcaption>MrXyfir repositories</figcaption>
 </figure>
-<figure id="image-7" style="margin: 1rem 1rem 2rem 1rem;">
+<figure style="margin: 1rem 1rem 2rem 1rem;">
 	<img src="./images/ptorx.png" style="border-radius: 0.5rem;">
 	<figcaption>ptorx</figcaption>
 </figure>
-<figure id="image-8" style="margin: 1rem 1rem 2rem 1rem;">
+<figure style="margin: 1rem 1rem 2rem 1rem;">
 	<img src="./images/ptorx_contributors.png" style="border-radius: 0.5rem;">
 	<figcaption>ptorx contributors</figcaption>
 </figure>
-<figure id="image-9" style="margin: 1rem 1rem 2rem 1rem;">
+<figure style="margin: 1rem 1rem 2rem 1rem;">
 	<img src="./images/16326.jpg" style="border-radius: 0.5rem;">
 	<figcaption>xyfir logo</figcaption>
 </figure>
-<figure id="image-10" style="margin: 1rem 1rem 2rem 1rem;">
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/MrXyfir_Twitter.PNG" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Twitter</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/MrXyfir_Twitter_ajZkJZDu_400x400.jpg" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Twitter Avatar</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/MrXyfir_Twitter_Tweet.PNG" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Twitter Tweet</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/MrXyfir_Twitter_Tweet_Likes1.PNG" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Twitter Tweet Likes 1</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/MrXyfir_Twitter_Tweet_Likes2.PNG" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Twitter Tweet Likes 2</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/MrXyfir_Twitter_Likes.PNG" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Twitter Likes</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/MrXyfir_Twitter_Followers_1.PNG" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Twitter Followers 1</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/MrXyfir_Twitter_Followers_2.PNG" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Twitter Followers 2</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/MrXyfir_Twitter_Followers_3.PNG" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Twitter Followers 3</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/MrXyfir_Twitter_Followers_4.PNG" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Twitter Followers 4</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/MrXyfir_Twitter_Followers_5.PNG" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Twitter Followers 5</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/MrXyfir_Twitter_Followers_6.PNG" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Twitter Followers 6</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/MrXyfir_Twitter_Followers_7.PNG" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Twitter Followers 7</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Ptorx_Twitter.PNG" style="border-radius: 0.5rem;">
+	<figcaption>Ptorx Twitter</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Ptorx_Twitter_Followers1.PNG" style="border-radius: 0.5rem;">
+	<figcaption>Ptorx Twitter Followers 1</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Ptorx_Twitter_Followers2.PNG" style="border-radius: 0.5rem;">
+	<figcaption>Ptorx Twitter Followers 2</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Ptorx_Twitter_Tweet_1.PNG" style="border-radius: 0.5rem;">
+	<figcaption>Ptorx Twitter Tweet 1</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Ptorx_Twitter_Tweet_2.PNG" style="border-radius: 0.5rem;">
+	<figcaption>Ptorx Twitter Tweet 2</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Ptorx_Twitter_Tweet_3.PNG" style="border-radius: 0.5rem;">
+	<figcaption>Ptorx Twitter Tweet 3</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Ptorx_Twitter_Tweet_4.PNG" style="border-radius: 0.5rem;">
+	<figcaption>Ptorx Twitter Tweet 4</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Ptorx_Twitter_Tweet_5.PNG" style="border-radius: 0.5rem;">
+	<figcaption>Ptorx Twitter Tweet 5</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Ptorx_Twitter_Tweet_6.PNG" style="border-radius: 0.5rem;">
+	<figcaption>Ptorx Twitter Tweet 6</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Ptorx_Twitter_Tweet_Image_EET570jVUAUMn0h.jpg" style="border-radius: 0.5rem;">
+	<figcaption>Ptorx Twitter Tweet Image</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Ptorx_Twitter_vugJb2_z_400x400.png" style="border-radius: 0.5rem;">
+	<figcaption>Ptorx Twitter Avatar</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Screenshot 2022-07-20 at 12-44-20 x (u_MrXyfir) - Reddit.png" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Reddit 1</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Screenshot 2022-07-20 at 12-45-06 x (u_MrXyfir) - Reddit.png" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Reddit 2</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Screenshot 2022-07-20 at 12-45-22 x (u_MrXyfir) - Reddit.png" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Reddit 3</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Screenshot 2022-07-20 at 12-46-27 gilded by MrXyfir.png" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Reddit 4</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Twitter_xyfir.PNG" style="border-radius: 0.5rem;">
+	<figcaption>Twitter xyfir</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/xyfir_Twitter_avatar_IMG_0503_400x400.jpg" style="border-radius: 0.5rem;">
+	<figcaption>xyfir Twitter Avatar</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Bitcoin_Price_6months.png" style="border-radius: 0.5rem;">
+	<figcaption>Bitcoin Price (Last 6 months)</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
 	<img src="./images/linkedin_christopher_fietz.png" style="border-radius: 0.5rem;">
 	<figcaption>LinkedIn - Christopher Fietz</figcaption>
 </figure>
-<figure id="image-11" style="margin: 1rem 1rem 2rem 1rem;">
+<figure style="margin: 1rem 1rem 2rem 1rem;">
 	<img src="./images/linkedin_koichi_matsumoto.png" style="border-radius: 0.5rem;">
 	<figcaption>LinkedIn - Koichi Matsumoto</figcaption>
 </figure>
