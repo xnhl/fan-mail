@@ -165,6 +165,15 @@
 					- Could indicate caring about privacy more than the average person.
 					- Benign unless coupled with facts like attempted extortion.
 					- Recall plain black GitHub image for <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a>/<a href="https://github.com/xyfir" target="_blank">xyfir</a>
+	- Possible alternate: https://twitter.com/Xyfir1Xyfir
+		- Username is Xyfir.
+		- Account name includes Xyfir.
+		- Account created May 2022.
+			- ~13 days after e-mail received (April 18, 2022).
+		- Avatar is plain white as others are plain black.
+		- Tweets are protected / hidden.
+		- 0 following / followers.
+		- Seems probable that this is <a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a>/<a href="https://github.com/xyfir" target="_blank">xyfir</a>.
 	- Ptorx Twitter: https://twitter.com/PtorxMail
 		- Location: California, USA
 		- Following MrXyfir
@@ -365,6 +374,10 @@ One last advice from me  recurrently change all your passwords from all accoun
 <figure style="margin: 1rem 1rem 2rem 1rem;">
 	<img src="./images/MrXyfir_Twitter_Followers_7.PNG" style="border-radius: 0.5rem;">
 	<figcaption>MrXyfir Twitter Followers 7</figcaption>
+</figure>
+<figure style="margin: 1rem 1rem 2rem 1rem;">
+	<img src="./images/Xyfir_twitter_alternate.PNG" style="border-radius: 0.5rem;">
+	<figcaption>MrXyfir Twitter (Alternate)</figcaption>
 </figure>
 <figure style="margin: 1rem 1rem 2rem 1rem;">
 	<img src="./images/Ptorx_Twitter.PNG" style="border-radius: 0.5rem;">
