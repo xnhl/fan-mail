@@ -90,7 +90,7 @@
 	- Made at least ~$3,472 in trades (Bitcoin for Amazon / other gift card balances) with other users on Reddit (see below)
 	- Bitcoin drastic value loss = potential motivation for initial message to me?
 		- Over roughly past 6 months Bitcoin has lost about half of its value
-		- A drastic loss started April 18 2022
+		- A drastic loss started April 18 2022 after a significant loss of about $3,000 just weeks before that.
 			- Same day as initial message to me
 			- See plateau on chart on April 17 2022 before drop
 			- See screenshot of bitcoinity website chart
@@ -169,7 +169,7 @@
 		- Username is Xyfir.
 		- Account name includes Xyfir.
 		- Account created May 2022.
-			- ~13 days after e-mail received (April 18, 2022).
+			- E-mail received May 7, 2022.
 		- Avatar is plain white as others are plain black.
 		- Tweets are protected / hidden.
 		- 0 following / followers.
