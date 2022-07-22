@@ -91,8 +91,10 @@
 	- Bitcoin drastic value loss = potential motivation for initial message to me?
 		- Over roughly past 6 months Bitcoin has lost about half of its value
 		- A drastic loss started April 18 2022 after a significant loss of about $3,000 just weeks before that.
-			- Same day as initial message to me
+			- 19 days before message to me
+			- Day MrXyfir began following me on GitHub
 			- See plateau on chart on April 17 2022 before drop
+			- On May 7 2022 (date of received e-mail) chart shows start of a plateau at a new low point
 			- See screenshot of bitcoinity website chart
 			- ~$41,000 before recent decline, now ~$20,700
 			- Link: https://data.bitcoinity.org/markets/price_volume/6m/USD?t=lb&vu=curr
