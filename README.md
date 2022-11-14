@@ -12,7 +12,7 @@
 - As I am now fairly confident that I have determined the source I felt that it would be amusing to publicize this information in the hope that the suspect shits himself if/when he sees this and realizes that he dun goofed.
 - Admittedly I could be mistaken, and offer my apologies if that is so, but all signs seem to point to the conclusion I have found with high probability.
 - All information has been forwarded to authorities as well as to a few acquaintances who enjoy this sort of thing and are eager to assist.
-- Some information has been publicly omitted but a selection is available in an encrypted file which is included at `/encrypted/MrXyfir.json`.
+- Some information has been publicly omitted but selections are available in encrypted files included in the /encrypted directory.
 	- If you would like the decryption key then e-mail me with a short message explaining your intentions: mwtheta@protonmail.com
 - I realize that this is a lot of information to take in and that its organization is not ideal, but I'm doing what I can.
 
@@ -244,6 +244,24 @@
 </ul>
 </details>
 </li>
+<li>
+<details>
+<summary><p style="display: inline">November 14, 2022</p></summary>
+<ul>
+	<li>Added more notes and info about increased Twitter harassment by fake accounts / bots since previous update of this document
+		<ul>
+			<li>See: Personal Details of Suspect / Able and willing to create bots / Possible connection...</li>
+			<li>I made screenshots, scraped Twitter accounts, downloaded images, and all are included in /images and /twitter_fakes</li>
+		</ul>
+	</li>
+	<li>Added notes about repository clones since last update.
+		<ul>
+			<li>See: Possible Retaliation Against Me</li>
+		</ul>
+	</li>
+</ul>
+</details>
+</li>
 <li>Further developments will follow.</li>
 </ul>
 </details>
@@ -424,7 +442,8 @@
 				<li>I also made lists (.json) of all users in Following list for many days to attempt to find patterns, and I used the GitHub API to get info for all accounts in the list.</li>
 				<li>See <a href="https://github.com/xnhl/fan-mail-assets" target="_blank">fan-mail-assets</a> repository for screenshots and user lists.</li>
 				<li>After I made a large collection of users which were in his Following list I decided to stop keeping track at ~200,000.</li>
-				<li>His process has since been paused and the Following count remains ~2,300.</li>
+				<li>Additional data for ~200,000 accounts (account info, repositories, following list, followers list) would take days to merge and the zipped collections would be too large to host on GitHub so it has been omitted.</li>
+				<li>His process has since been paused and the Following count remains ~2,300 as of October 26, 2022.</li>
 			</ul>
 		</li>
 		<li>Fake GitHub achievements.
@@ -505,19 +524,119 @@
 		<details>
 			<summary><p style="display: inline">Possible connection with many fake Twitter accounts (probably bots) which have been following me on <a href="https://twitter.com/cata_lyze" target="_blank">Twitter</a>.</p></summary>
 			<ul>
-				<li>Pattern: Young and attractive Asian women whose tweets and images often indicate interest in: cryptocurrencies, golf, travel, luxury items, nonsense quotations.</li>
-				<li><a href="https://twitter.com/Bananazxa" target="_blank">Bananazxa</a></li>
-				<li><a href="https://twitter.com/LiXinya14" target="_blank">LiXinya14</a></li>
-				<li><a href="https://twitter.com/SaraZi0719" target="_blank">SaraZi0719</a></li>
-				<li><a href="https://twitter.com/sppass_l" target="_blank">sppass_l</a></li>
-				<li><a href="https://twitter.com/nangongyan13" target="_blank">nangongyan13</a></li>
-				<li><a href="https://twitter.com/Lihuymnyue" target="_blank">Lihuymnyue</a></li>
-				<li><a href="https://twitter.com/msourish10" target="_blank">msourish10</a></li>
-				<li><a href="https://twitter.com/YeliJess" target="_blank">YeliJess</a></li>
-				<li><a href="https://twitter.com/dnyanesmia" target="_blank">dnyanesmia</a></li>
-				<li><a href="https://twitter.com/Taniajkjk" target="_blank">Taniajkjk</a></li>
-				<li><a href="https://twitter.com/RaajesOdelonges" target="_blank">RaajesOdelonges</a></li>
-				<li><a href="https://twitter.com/WuwangSelena" target="_blank">WuwangSelena</a> (former account: pharmslee)</li>
+				<li>Pattern:
+					<ul>
+						<li>Young and attractive Asian women whose tweets and images (with faces often obscured) often indicate interest in: cryptocurrencies, golf, yoga/exercise, travel, luxury items, nonsense quotations.</li>
+						<li>The lists of accounts they follow are often/always in the hundreds and filled with cryptocurrency enthusiasts.</li>
+						<li>Seems like they are pretty obvious <a href="https://en.wikipedia.org/wiki/Recruitment_of_spies#Love,_honeypots,_and_recruitment" target="_blank">honeypots</a> intended to find lonely and/or rich men to blackmail and/or steal from.</li>
+					</ul>
+				</li>
+				<li>Interesting note:
+					<ul>
+						<li>Since the previous update on October 26 in which I added the list below I have received 2 messages (which are the only messages I've received on Twitter) from more obviously fake accounts which conform to the pattern.</li>
+						<li>The first message (from <a href="https://twitter.com/fhuy85838910" target="_blank">fhuy85838910</a>) was received on October 30 (just 4 days after this document was updated)</li>
+						<li>The second message (from <a href="https://twitter.com/MK88588" target="_blank">MK88588</a>) was received on November 4 (just 9 days after this document was updated).</li>
+						<li>The fact that the messages came so soon after updating this repository strongly suggests a connection with the peerless intellects who have been targeting me and watching my accounts and repositories.</li>
+						<li>Really subtle, guys. You are clearly sending your best, and I am shaking in my boots. Keep up your brilliant strategies which must have been taken straight from The Art of War.</li>
+					</ul>
+				</li>
+				<li>Additional information:
+					<ul>
+						<li>I have scraped all tweets (for the accounts which are still active) and then downloaded all of the images which they have uploaded.</li>
+						<li>Tweets and images can be found in /twitter_fakes directory.</li>
+					</ul>
+				</li>
+				<li>
+				<details>
+					<summary><p style="display: inline">Messages</p></summary>
+					<ul>
+						<li>
+							<a href="https://twitter.com/MK88588" target="_blank">MK88588</a>
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_account_profile_1.png">
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_account_message_1.png">
+						</li>
+						<li>
+							<a href="https://twitter.com/fhuy85838910" target="_blank">fhuy85838910</a>
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_account_profile_2.png">
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_account_message_2.png">
+						</li>
+					</ul>
+				</details>
+				</li>
+				<li>
+				<details>
+					<summary><p style="display: inline">Followers</p></summary>
+					<ul>
+						<li>
+							<a href="https://twitter.com/jainmonty89" target="_blank">jainmonty89</a>
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_jainmonty89.png">
+						</li>
+						<li>
+							<a href="https://twitter.com/alvaLeaf" target="_blank">alvaLeaf</a>
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_alvaLeaf.png">
+						</li>
+						<li>
+							<a href="https://twitter.com/Poek_bz" target="_blank">Poek_bz</a>
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_Poek_bz.png">
+						</li>
+						<li>
+							<a href="https://twitter.com/Undinezq" target="_blank">Undinezq</a>
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_Undinezq.png">
+						</li>
+						<li>
+							<a href="https://twitter.com/BenBeezy0000" target="_blank">BenBeezy0000</a>
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_BenBeezy0000.png">
+						</li>
+						<li>
+							<a href="https://twitter.com/Bananazxa" target="_blank">Bananazxa</a>
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_Bananazxa.png">
+						</li>
+						<li>
+							<a href="https://twitter.com/LiXinya14" target="_blank">LiXinya14</a>
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_LiXinya14.png">
+						</li>
+						<li>
+							<a href="https://twitter.com/SaraZi0719" target="_blank">SaraZi0719</a>
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_SaraZi0719.png">
+						</li>
+						<li>
+							<a href="https://twitter.com/sppass_l" target="_blank">sppass_l</a>
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_sppass_l.png">
+						</li>
+						<li>
+							<a href="https://twitter.com/nangongyan13" target="_blank">nangongyan13</a>
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_nangongyan13.png">
+						</li>
+						<li>
+							<a href="https://twitter.com/Lihuymnyue" target="_blank">Lihuymnyue</a>
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_Lihuymnyue.png">
+						</li>
+						<li>
+							<a href="https://twitter.com/msourish10" target="_blank">msourish10</a>
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_msourish10.png">
+						</li>
+						<li>
+							<a href="https://twitter.com/YeliJess" target="_blank">YeliJess</a>
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_YeliJess.png">
+						</li>
+						<li>
+							<a href="https://twitter.com/dnyanesmia" target="_blank">dnyanesmia</a>
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_dnyanesmia.png">
+						</li>
+						<li>
+							<a href="https://twitter.com/RaajesOdelonges" target="_blank">RaajesOdelonges</a>
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_RaajesOdelonges.png">
+						</li>
+						<li>
+							<a href="https://twitter.com/Taniajkjk" target="_blank">Taniajkjk</a></li> (has since blocked me (lol))
+								<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_Taniajkjk.png">
+						<li>
+							<a href="https://twitter.com/WuwangSelena" target="_blank">WuwangSelena</a> (former account: pharmslee)
+							<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_WuwangSelena.png">
+						</li>
+					</ul>
+				</details>
+				</li>
 			</ul>
 		</details>
 	</li>
@@ -1537,6 +1656,13 @@
 							<ul>
 								<li>notes-app: 2 (2 unique sources)</li>
 								<li>cata-list.github.io: 3 (2 unique sources)</li>
+							</ul>
+						</li>
+						<li>After October 26
+							<ul>
+								<li>More clones similar to past updates, but it doesn't seem worth it to list all of them.</li>
+								<li>It seems probable that the objective is merely harassment and trying (though failing miserably) to induce fear and paranoia.</li>
+								<li>On November 13 I decided to make most of my repositories private after having finally learned a lesson against sharing and transparency.</li>
 							</ul>
 						</li>
 					</ul>
