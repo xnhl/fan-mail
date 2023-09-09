@@ -9,7 +9,7 @@
 > "Be careful what you fish for."
 
 - I received an e-mail a couple of months ago which motivated me to do a bit of detective work to see what I could find out about the source of the message.
-- As I am now fairly confident that I have determined the source I felt that it would be amusing to publicize this information in the hope that the suspect shits himself if/when he sees this and realizes that he dun goofed.
+- As I am now fairly confident that I have determined the source I felt that it would be amusing to publicize this information in the hope that the suspect shits himself if/when he sees this and realizes that he <a href="https://www.youtube.com/watch?v=4s0N2aYytjg" target="_blank">dun goofed</a>.
 - Admittedly I could be mistaken, and offer my apologies if that is so, but all signs seem to point to the conclusion I have found with high probability.
 - All information has been forwarded to authorities as well as to a few acquaintances who enjoy this sort of thing and are eager to assist.
 - Some information has been publicly omitted but selections are available in encrypted files included in the /encrypted directory.
@@ -257,6 +257,85 @@
 	<li>Added notes about repository clones since last update.
 		<ul>
 			<li>See: Possible Retaliation Against Me</li>
+		</ul>
+	</li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><p style="display: inline">September 9, 2023</p></summary>
+<ul>
+	<li>Nearly a year later this little pest is still flitting about and trying to get to me. It is always amusing to observe his desperate powerlessness, and I would encourage him to continue wasting his limited time and digging his grave ever deeper. He is already caught in the trap and there's nowhere he can run to. Only a matter of time, friendo.
+	</li>
+	<li>There have been several types of petty and failed attacks since the last update. I didn't feel that they were worth updating this repository for, and I may have forgotten about a few of them as I rarely think about this anymore, but the most recent one has motivated me to provide an update.
+	</li>
+	<li>Since the last update:
+		<ul>
+		<li>GitHub
+			<ul>
+				<li>Many clones of all of my remaining public repositories, as before.</li>
+			</ul>
+		</li>
+		<li>E-mail
+			<ul>
+				<li>Many obvious phishing attempts, etc.
+					<details>
+						<summary>Screenshots of some messages:</summary>
+						<figure style="margin: 1rem;">
+							<img src="./images/spam_1.png" style="border-radius: 0.5rem;">
+						</figure>
+						<figure style="margin: 1rem;">
+							<img src="./images/spam_2.png" style="border-radius: 0.5rem;">
+						</figure>
+						<figure style="margin: 1rem;">
+							<img src="./images/spam_3.png" style="border-radius: 0.5rem;">
+						</figure>
+						<figure style="margin: 1rem;">
+							<img src="./images/spam_4.png" style="border-radius: 0.5rem;">
+						</figure>
+						<figure style="margin: 1rem;">
+							<img src="./images/spam_5.png" style="border-radius: 0.5rem;">
+						</figure>
+					</details>
+				</li>
+			</ul>
+		</li>
+			<li>Twitter
+				<ul>
+					<li>~50-100 bots have followed my @cata_lyze account before being reported, removed, and blocked. They seem to be most active after I post or comment.</li>
+					<li>I have received over a dozen messages from obviously fake accounts.
+					<details>
+						<summary>Screenshot of some messages:</summary>
+						<figure style="margin: 1rem;">
+							<img src="./images/twitter_bots.jpg" style="border-radius: 0.5rem;">
+						</figure>
+					</details>
+					</li>
+					<li>Several fakes have been impersonations of people I follow which would seem to suggest a targeted attack.
+						<ul>
+							<li>Screenshots are on an external hard drive and are not worth retrieving just for this.
+							</li>
+							<li>One immediately blocked me after being publicly exposed and embarrassed.
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<li>Facebook
+			<ul>
+				<li>On September 3 at 11:36 p.m. I received an e-mail from Facebook about someone trying to log in to an old and deactivated account of mine which I haven't used in at least 7 years.
+					<ul>
+						<li>The e-mail address used for this Facebook account is the same one that I used to sign up for this GitHub account which strongly suggests a connection.
+						</li>
+						<li>This event occurred a day after I had chosen to finally make my cata-list GitHub repository private after having moved to another website a few months ago.
+						</li>
+						<li>The next day there were clones (1 each) of this repository and the main xnhl repo, and there were 8 views (from 2 unique sources) of the sole repository of a newer GitHub account of mine.
+						</li>
+					</ul>
+				</li>
+			</ul>
+			</li>
 		</ul>
 	</li>
 </ul>
