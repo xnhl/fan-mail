@@ -1313,7 +1313,7 @@
 							</li>
 						</ul>
 					</li>
-					<li>LinkedIn volunteering section indicates experience with cybersecurity:
+					<li>LinkedIn volunteering and experience sections indicate experience with cybersecurity:
 					<ul>
 						<li>Cybersecurity's General Threat and Insider Thread working committee (SIFMA)</li>
 						<li>Member - Security Industry Risk Group (FS-ISAC)</li>
@@ -1336,7 +1336,7 @@
 							</li>
 							<li>Similar to how doctors don't profit if people aren't getting sick/hurt, etc.
 							</li>
-							<li>Cybersecurity experience (indicated in volunteering section below) means:
+							<li>Cybersecurity experience (indicated in volunteering and experience sections of LinkedIn page) means:
 								<ul>
 									<li>He has a good cover if anyone ever suspects foul play.</li>
 									<li>He probably knows how many attacks work and, therefore, could easily fabricate them.</li>
