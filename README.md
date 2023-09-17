@@ -31,9 +31,9 @@
 					</li>
 					<li>
 						<details>
-							<summary><p style="display: inline">Screenshot of E-mail</p></summary>
+							<summary><p style="display: inline">Screenshot of e-mail</p></summary>
 							<figure style="margin: 1rem;">
-								<img src="./images/email.png" style="border-radius: 0.5rem;">
+								<img src="./images/MrXyfir_initial_message.png" style="border-radius: 0.5rem;">
 							</figure>
 						</details>
 					</li>
@@ -85,6 +85,28 @@
 		</ul>
 	</li>
 	<li>I will continue gathering information and updating this repository as long as strange events / attacks continue to occur.
+	</li>
+	<li>Updates:
+		<ul>
+			<li>September 17, 2023
+				<ul>
+					<li>On September 11 I received two new obvious phishing e-mails.
+						<ul>
+							<li>Same day of previous update to this document.
+							</li>
+							<li>Two days after first update of this document in nearly a year.
+							</li>
+							<li>There is a high probability that they came from those who are watching this document for updates.
+							</li>
+							<li>Screenshots have been added to the Attacks / E-mail section of this document.
+							</li>
+						</ul>
+					</li>
+					<li>I remade the screenshot for the initial message in order to show it in full.
+					</li>
+				</ul>
+			</li>
+		</ul>
 	</li>
 </ul>
 
@@ -612,6 +634,13 @@
 			<li><a href="https://github.com/MrXyfir/npm-download-faker" target="_blank">npm-download-faker</a> repository reveals willingness to create fake information for personal gain.</li>
 			<li>Possibly a <a href="https://www.urbandictionary.com/define.php?term=furry" target="_blank">furry</a> (see Twitter details and screenshots above).</li>
 			<li>Adorable bluffing skills of a small child (see e-mail).</li>
+			<li>Likely more than one person.
+				<ul>
+					<li>
+						YouTube channel description in About tab contains words "See all of our projects" with a link to xyfir.com. (see YouTube screenshots)
+					</li>
+				</ul>
+			</li>
 			<li>Username (Mr. Cipher) and plain black GitHub avatar suggest desire to conceal personal information.
 				<ul>
 					<li>Reasonable in the time / society we live in, but suggestive in light of other details like attempted extortion.</li>
@@ -1321,20 +1350,28 @@
 						<li>Western International Securities - Director of Technology and Cybersecurity - ~1.5 years</li>
 					</ul>
 					</li>
-					<li>LinkedIn images for first profile include meme (second image in LinkedIn section above) expressing a kind of cynical attitude toward cyber security budget.
+					<li>LinkedIn images for first profile include meme (second image in LinkedIn section above) expressing a kind of cynical attitude toward cybersecurity budget.
 						<ul>
 							<li>Low budget when no breaches, large budget when breaches found.
 							</li>
-							<li>This indicates motivation to fabricate and exaggerate threats in order to "earn" more money.
+							<li>This indicates motivation to fabricate and exaggerate threats in order to "earn" more money from clients.
 								<ul>
 									<li>
-										This could be what is happening with him in my case.
+										This could be what he's doing in my case.
 									</li>
 								</ul>
 							</li>
 							<li>This could reveal greed, dishonesty, incompetence.
 							</li>
-							<li>Similar to how doctors don't profit if people aren't getting sick/hurt, etc.
+							<li>Similar to how people in other fields create problems in order to enact their "solutions" which "fix" them while expanding their profits / power / control:
+								<ul>
+									<li>Medical field creates fake diseases.
+									</li>
+									<li>Corporate / legacy media create fake stories.
+									</li>
+									<li>Governments create fake crises.
+									</li>
+								</ul>
 							</li>
 							<li>Cybersecurity experience (indicated in volunteering and experience sections of LinkedIn page) means:
 								<ul>
@@ -1384,14 +1421,16 @@
 	<li>
 	Summary: Many attacks which could be easily created by someone with experience in cybersecurity, creating bots, etc. as Rinaldo and/or Eric have.
 	</li>
+	<li>There have been other attacks which could be related to this document but I've decided to omit them for now.</li>
+	<li>I can think of other methods of attack which could be utilized with MrXyfir's skillset but I don't want to give anyone ideas.</li>
 	<li>GitHub
 		<ul>
 			<li>Many clones of all of my public repositories across three accounts since I first published this document, and many which occur soon after I have updated this repository.</li>
-			<li>I'm guessing that they may attempt to claim and use my code and/or images as their own (a clear violation of copyright laws).</li>
+			<li>Given the failure of other methods I'm guessing that they could attempt to claim and use my code and/or images as their own (a clear violation of copyright laws).</li>
 			<li>Possible connection with past unusual numbers of project clones:
 				<ul>
 					<li>3+ sources consistently cloning all of my projects when I update them (I have since made most of my projects private).</li>
-					<li>Unusual numbers of clones which I would sometimes get on repositories like cata-list (repo made private ~August 2023 after having moved to another website):
+					<li>Unusual numbers of clones which I would sometimes get on repositories like cata-list (repo made private late August / early September 2023 after having moved to another website):
 						<details>
 							<summary><p style="display: inline">Examples:</p></summary>
 							<ul>
@@ -1429,6 +1468,12 @@
 					</figure>
 					<figure style="margin: 1rem;">
 						<img src="./images/spam_1.png" style="border-radius: 0.5rem;">
+					</figure>
+					<figure style="margin: 1rem;">
+						<img src="./images/spam_6.png" style="border-radius: 0.5rem;">
+					</figure>
+					<figure style="margin: 1rem;">
+						<img src="./images/spam_7.png" style="border-radius: 0.5rem;">
 					</figure>
 				</details>
 			</li>
