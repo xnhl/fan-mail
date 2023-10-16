@@ -72,8 +72,6 @@
 			</li>
 		</ul>
 	</li>
-	<!-- <li>Being fairly confident that I had determined the source and I felt that it would be amusing to publicize this information in the hope that the suspect shits himself if/when he sees this and realizes that he <a href="https://www.youtube.com/watch?v=4s0N2aYytjg" target="_blank">dun goofed</a>.
-	</li> -->
 	<li>Previous versions of this document show how I went down false paths searching for the likely source, but I am now quite certain that I have found the culprits.
 	</li>
 	<li>I felt that it would be amusing to publicize this information in the hope that the suspects shit themselves if/when they see this and realize that they <a href="https://www.youtube.com/watch?v=4s0N2aYytjg" target="_blank">dun goofed</a>.
@@ -1475,6 +1473,9 @@
 					<figure style="margin: 1rem;">
 						<img src="./images/spam_7.png" style="border-radius: 0.5rem;">
 					</figure>
+					<figure style="margin: 1rem;">
+						<img src="./images/spam_8.png" style="border-radius: 0.5rem;">
+					</figure>
 				</details>
 			</li>
 		</ul>
@@ -1526,3 +1527,356 @@
 		</ul>
 		</li>
 	</ul>
+
+---
+
+## Gone Phishing
+
+### Introduction
+<p>I recently created a repository which contains thousands of examples of anti-white racism. Soon after this there was a significant increase in attacks / notable events and I suspect that they are related. There may also be connections with past attacks which I have omitted until now. While these could be related to the attacks by MrXyfir (& comrade(s)?) I've decided to put them in their own section.</p>
+
+---
+
+### Timeline of Events
+<ul>
+	<li> October 5, 2023
+		<ul>
+			<li>
+				<details>
+					<summary><p style="display: inline">Anti-white racism respository created.</p></summary>
+					<ul>
+						<li>I chose the title "racism" because:
+							<ul>
+								<li>Contrary to trendy leftist / woke / social justice warrior / black lives matter dogma anti-white racism <em>is</em> racism.
+								</li>
+								<li>I wanted to trigger/anger/expose any woke leftists and so-called "anti-racists" who may be watching my activity.
+								</li>
+								<li>I'd like anyone searching on GitHub for BLM and "anti-racist" stuff to be exposed to their hateful and ironic rhetoric.
+								</li>
+							</ul>
+						</li>
+						<li>I deleted and remade the repository on the evening of October 12, 2023.
+							<ul>
+								<li>
+									While pushing a new version to GitHub I encountered an error which I didn't know how to fix so I simply decided to start over.
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</details>
+			</li>
+			<li>GitHub project clones:
+				<ul>
+					<li>racism: 1, 1 unique source
+					</li>
+					<li>new portfolio: 5, 3 unique sources
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li>October 6
+		<ul>
+			<li>GitHub project clones: racism: 5, 5 unique sources
+			</li>
+		</ul>
+	</li>
+	<li>October 7
+		<ul>
+			<li>GitHub project clones: racism: 4, 3 unique sources
+			</li>
+		</ul>
+	</li>
+	<li>October 9
+		<ul>
+			<li>LinkedIn profile view from a someone using private mode so as not to reveal their identity.
+				<ul>
+					<li>
+						<details>
+							<summary><p style="display: inline">Screenshot (October 13)</p></summary>
+							<img src="./images/linkedin_view.png" style="border-radius: 0.5rem;">
+						</details>
+					</li>
+				</ul>
+			</li>
+			<li>Phishing attempt received via phone / text message.
+				<ul>
+					<li>
+						<details>
+							<summary><p style="display: inline">Screenshot</p></summary>
+							<img src="./images/phish_text_11.png" style="border-radius: 0.5rem;">
+						</details>
+					</li>
+					<li>Possible connection with many other phishing texts received in past which I will document below.
+					</li>
+				</ul>
+			</li>
+			<li>GitHub project clones:
+				<ul>
+					<li>riots: 2, 1 unique source
+					</li>
+					<li>fan-mail: 2, 1 unique source
+					</li>
+					<li>racism: 1, 1 unique source
+					</li>
+					<li>new portfolio: 3, 2 unique sources
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li>October 10
+		<ul>
+			<li>Phishing attempt received at main Protonmail address.
+				<ul>
+					<li>
+						<details>
+							<summary><p style="display: inline">Screenshot</p></summary>
+							<img src="./images/spam_8.png" style="border-radius: 0.5rem;">
+						</details>
+					</li>
+				</ul>
+			</li>
+			<li>GitHub project clones:
+				<ul>
+					<li>racism: 3, 3 unique sources
+					</li>
+					<li>xnhl: 5, 2 unique sources
+					</li>
+					<li>LCn4urFq0ADxwpGPyYdCi: 2, 1 unique source
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li>October 11
+		<ul>
+			<li>GitHub project clones: xnhl: 1, 1 unique source
+			</li>
+		</ul>
+	</li>
+	<li>October 12
+		<ul>
+			<li>Racism repository remade ~8pm.
+			</li>
+			<li>GitHub project clones:
+				<ul>
+					<li>riots: 1, 1 unique source
+					</li>
+					<li>new portfolio: 1, 1 unique source
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li>October 13
+		<ul>
+			<li>Phishing attempt received via phone / text message.
+			<ul>
+				<li>
+					<details>
+						<summary><p style="display: inline">Screenshot</p></summary>
+						<img src="./images/phish_text_12.png" style="border-radius: 0.5rem;">
+					</details>
+				</li>
+			</ul>
+			</li>
+			<li>GitHub project clones: racism: 1, 1 unique source
+			</li>
+		</ul>
+	</li>
+</ul>
+
+---
+
+### Connections and Context
+<ul>
+	<li>Just four days after my racism repository was created the new activity/attacks started.
+		<ul>
+			<li>Within the span of two days (October 9-10): 
+				<ul>
+					<li>Someone in private mode viewed my LinkedIn profile.
+					</li>
+					<li>I received a phishing e-mail.
+					</li>
+					<li>I received a phishing text message on my phone.
+					</li>
+					<li>There were many clones of several GitHub projects: riots, racism, fan-mail, xnhl, new portfolio, LCn4urFq0ADxwpGPyYdCi.
+					</li>
+				</ul>
+			</li>
+			<li>A few days later (~17 hours after remaking the racism repository) I received another text message phishing attempt.
+			</li>
+		</ul>
+	</li>
+	<li>It seems probable that the racism repository was the thing that set off these recent attacks, and that BLM / "anti-racist" / "anti-fascist" types could be involved and/or responsible.
+		<ul>
+			<li>In addition to the racism repository, I'm fairly certain that my riots repository has been viewed and cloned many times by leftists / woke cultists / social justice warriors / black lives matter / antifa (so-called "anti-fascist") types, and that they may have chosen to target me as they do to anyone who dares to disagree with any of their views and/or expose their violence, ignorance, racism, hypocrisy, terrorism, LARPing / cosplaying, childishness / tantrums, and (ironically) fascist actions/tendencies.
+			<ul>
+				<li>
+					<details>
+						<summary><p style="display: inline">Fascists?</p></summary>
+						<ul>
+							<li>Common among super edgy leftists, social justice warriors, Democrats, "anti-fascists", and similar types is the view that essential to "saving our democracy" (preserving their control) and "fighting disinformation" (purging and banning all but the infallible narratives of governments & leftist activists) is merging state and corporate power (government + media, social media) in order to forcibly suppress, censor, and ban any/all dissent and opposition to them.
+								<ul>
+									<li>This is textbook fascism.
+									</li>
+									<li>This is what Twitter leadership and "moderation" team(s) were doing before Elon Musk took over, and what other social media companies continue to do (notably Reddit, YouTube, and Facebook, though most others are also guilty).
+									</li>
+									<li>This is no surprise given how frequently leftist types demonstrate their historical illiteracy, ignorance (about events, statistics, what fascism is, <em>et cetera</em>), hysterical / delusional views and behavior, total / violent intolerance of any dissent, and brainwashing by corporate / legacy media.
+									</li>
+									<li>"But we're on the left and fascists/Nazis are far-right so we can't possibly be fascists!", they shriek hysterically.
+										<ul>
+											<li>
+												<details>
+													<summary><p style="display: inline">"Don't you get it, you fucking fascist!?"</p></summary>
+													<img src="./images/blm_antifa.jpg" style="border-radius: 0.5rem;">
+												</details>
+											</li>
+											<li>Like most/all leftists/SJWs/Marxists/Communists/"anti-fascists" the Nazis:
+												<ul>
+													<li>were Socialists (National Socialism)
+													</li>
+													<li>were authoritarians / totalitarians ("ours is the only way, submit or face reprogramming/brainwashing/exile/death")
+													</li>
+													<li>sought to merge state and corporate power (see Mussolini's definition of fascism)
+													</li>
+													<li>wished to forcibly suppress opposition (see rampant censorship on social media which is often demanded/supported by governments)
+													</li>
+													<li>advocated a one-party state (illiberal leftist parasites, and the Democratic party which they have captured, often express their desire to eradicate Conservatives/Republicans, whom they ironically regard as Nazis/fascists, from all positions of power / government)
+													</li>
+													<li>were racist against a demonized "Other" (Nazis & Jews, leftists & Whites) against whom they often advocated genocides / mass killings / forced sterilizations / forced deportations (see my racism repository for many examples of all of these)
+													</li>
+													<li>used violence and terrorism in order to achieve their goal of dominance (consider similarities between Hitler's Brownshirts and antifa terrorists)
+													</li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</details>
+				</li>
+			</ul>
+			</li>
+		</ul>
+	</li>
+	<li>Connection to other phishing attempts:
+		<ul>
+			<li>On February 25 2022 I received an e-mail which was a phishing attempt.
+				<ul>
+					<li>
+						<details>
+							<summary><p style="display: inline">Screenshot</p></summary>
+							<img src="./images/EDD fraud 1.png" style="border-radius: 0.5rem;">
+						</details>
+					</li>
+					<li>The e-mail was received at the address associated with this GitHub account.
+					</li>
+					<li>This occurred ~7 weeks before the MrXyfir situation started which may indicate a connection.
+					<li>Due to the amount of time that has passed since these events I don't recall them all exactly but I remember most of what happened.
+					</li>
+					</li>
+					<li>The e-mail purported to be a fraud alert from Bank of America, claimed that there was a potential unauthorized use of one of my credit cards, and said that I would need to confirm the transaction.
+					</li>
+					<li>Two days later I read the e-mail and because it seemed real enough I called the number and put in my card information as instructed.
+						<ul>
+							<li>
+							I have since checked the phone number on various fraud/spam sites and found mixed opinions. Many say that the number is definite fraud/spam and they were taken advantage of, but several responses have said that the number is correct for Bank of America fraud prevention.
+							</li>
+						</ul>
+					</li>
+					<li>If I recall correctly I was then transferred to someone who claimed to be a Bank of America fraud alert representative and I told her that after checking my account I didn't see any missing funds, and she told me that all was fine.
+						<ul>
+							<li>I could tell from her voice that the woman was black.
+							</li>
+						</ul>
+					</li>
+					<li>Some time within the next few days I was attempting to withdraw money from my account but instead received an error message telling me that there was a hold on my account and I would have to contact Bank of America to work out what had happened.
+					</li>
+					<li>I then checked my balance online and saw two unauthorized transactions. One was for $300 and another for $100.
+					</li>
+					<li>I called the real Bank of America help number, explained the situation, was issued a new card, and had my money refunded within a few days with no issues.
+					</li>
+					<li>After receiving my new card I had another hold put on my account, called the help number, and found out that there was another attempt to use my old card information, but after talking with the representative we cleared things up.
+					</li>
+					<li>Two weeks later on March 11 I received another e-mail, whose format and intention were identical to the first, which I disregarded by saved in case it may be useful in future.
+						<ul>
+							<li>
+								<details>
+									<summary><p style="display: inline">Screenshot</p></summary>
+									<img src="./images/EDD fraud 2.png" style="border-radius: 0.5rem;">
+								</details>
+							</li>
+						</ul>
+					</li>
+					<li>Overall this was a useful lesson, and after having this happen once I'm fairly certain that it won't after happen again as I've learned to be even more cautious.
+					</li>
+				</ul>
+			</li>
+			<li>Since the phishing attempt above I have received many more phishing attempts, as text messages to my phone, which were obvious and poorly executed.
+				<ul>
+					<li>Some messages may have been deleted as I didn't think I'd ever need them for anything, but I have saved many of them.
+					</li>
+					<li>I suspect that these messages are likely connected to the event described above since they had my phone number after I had called.
+					</li>
+					<li>Although they are a minor nuisance and changing my phone number would stop them, these futile attempts are a good reminder to be cautious, and they provide me with entertainment and motivation to continue the work that I'm doing with things like my riots and racism repositories as well as other projects.
+					</li>
+					<li>
+						<details>
+							<summary><p style="display: inline">Screenshots</p></summary>
+							<figure style="margin: 1rem;">
+								<img src="./images/phish_text_1.png" style="border-radius: 0.5rem;">
+							</figure>
+							<figure style="margin: 1rem;">
+								<img src="./images/phish_text_2.png" style="border-radius: 0.5rem;">
+								<figcaption>My phone number has been redacted.</figcaption>
+							</figure>
+							<figure style="margin: 1rem;">
+								<img src="./images/phish_text_3.png" style="border-radius: 0.5rem;">
+								<figcaption>My phone number has been redacted.</figcaption>
+							</figure>
+							<figure style="margin: 1rem;">
+								<img src="./images/phish_text_4.png" style="border-radius: 0.5rem;">
+							</figure>
+							<figure style="margin: 1rem;">
+								<img src="./images/phish_text_5.png" style="border-radius: 0.5rem;">
+							</figure>
+							<figure style="margin: 1rem;">
+								<img src="./images/phish_text_6.png" style="border-radius: 0.5rem;">
+							</figure>
+							<figure style="margin: 1rem;">
+								<img src="./images/phish_text_7.png" style="border-radius: 0.5rem;">
+							</figure>
+							<figure style="margin: 1rem;">
+								<img src="./images/phish_text_8.png" style="border-radius: 0.5rem;">
+								<figcaption>My phone number has been redacted. Full sender e-mail address not visible on screen: online.alert-banking-service-929@customersfirstacademy.com</figcaption>
+							</figure>
+							<figure style="margin: 1rem;">
+								<img src="./images/phish_text_9.png" style="border-radius: 0.5rem;">
+								<figcaption>My phone number has been redacted.</figcaption>
+							</figure>
+							<figure style="margin: 1rem;">
+								<img src="./images/phish_text_10.png" style="border-radius: 0.5rem;">
+							</figure>
+							<figure style="margin: 1rem;">
+								<img src="./images/phish_text_10_vertical.png" style="border-radius: 0.5rem;">
+								<figcaption>Vertical version of previous image showing full messages and dates</figcaption>
+							</figure>
+							<figure style="margin: 1rem;">
+								<img src="./images/phish_text_11.png" style="border-radius: 0.5rem;">
+							</figure>
+							<figure style="margin: 1rem;">
+								<img src="./images/phish_text_12.png" style="border-radius: 0.5rem;">
+								<figcaption>Date not yet showing: Oct 13, 2023. My phone number has been redacted.</figcaption>
+							</figure>
+						</details>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
+
+---
