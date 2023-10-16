@@ -1801,7 +1801,7 @@
 					</li>
 					<li>After receiving my new card I had another hold put on my account, called the help number, and found out that there was another attempt to use my old card information, but after talking with the representative we cleared things up.
 					</li>
-					<li>Two weeks later on March 11 I received another e-mail, whose format and intention were identical to the first, which I disregarded by saved in case it may be useful in future.
+					<li>Two weeks later on March 11 I received another e-mail, whose format and intention were identical to the first, which I disregarded but saved in case it may be useful in future.
 						<ul>
 							<li>
 								<details>
@@ -1811,7 +1811,7 @@
 							</li>
 						</ul>
 					</li>
-					<li>Overall this was a useful lesson, and after having this happen once I'm fairly certain that it won't after happen again as I've learned to be even more cautious.
+					<li>Overall this was a useful lesson, and after having this happen once I'm fairly certain that it won't ever happen again as I've learned to be even more cautious.
 					</li>
 				</ul>
 			</li>
