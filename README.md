@@ -104,6 +104,24 @@
 					</li>
 				</ul>
 			</li>
+			<li>October 20, 2023
+				<ul>
+					<li>On October 10 I received another phishing e-mail to my main Protonmail address.
+						<ul>
+							<li>Due to its close proximity to other attacks I chose to include it in the other/newer main section of this document, but it could be related to past attacks by MrXyfir (& comrade(s)).
+							</li>
+							<li>The e-mail address is similar to those of two other phishing e-mails I have received: _@_.biglobe.ne.jp.
+								<ul>
+									<li><a href="https://en.wikipedia.org/wiki/BIGLOBE" target="_blank">BIGLOBE</a> is a Japanese internet service provider.
+									</li>
+									<li>Recall that Koichi Matsumoto, the only other contributor to xyfir/MrXyfir's ptorx GitHub repository, is Japanese and may currently live there.
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
 		</ul>
 	</li>
 </ul>
@@ -1533,7 +1551,7 @@
 ## Gone Phishing
 
 ### Introduction
-<p>I recently created a repository which contains thousands of examples of anti-white racism. Soon after this there was a significant increase in attacks / notable events and I suspect that they are related. There may also be connections with past attacks which I have omitted until now. While these could be related to the attacks by MrXyfir (& comrade(s)?) I've decided to put them in their own section.</p>
+<p>I recently created a <a href="https://github.com/xnhl/racism" target="_blank">repository</a> which contains thousands of examples of anti-white racism. Soon after this there was a significant increase in attacks / notable events and I suspect that they are related. There may also be connections with past attacks which I have omitted until now. While these could be related to the attacks by MrXyfir (& comrade(s)?) I've decided to put them in their own section.</p>
 
 ---
 
@@ -1543,7 +1561,7 @@
 		<ul>
 			<li>
 				<details>
-					<summary><p style="display: inline">Anti-white racism respository created.</p></summary>
+					<summary><p style="display: inline">Anti-white <a href="https://github.com/xnhl/racism" target="_blank">racism</a> respository created.</p></summary>
 					<ul>
 						<li>I chose the title "racism" because:
 							<ul>
@@ -1552,6 +1570,14 @@
 								<li>I wanted to trigger/anger/expose any woke leftists and so-called "anti-racists" who may be watching my activity.
 								</li>
 								<li>I'd like anyone searching on GitHub for BLM and "anti-racist" stuff to be exposed to their hateful and ironic rhetoric.
+								</li>
+								<li>Legacy / corporate media, in their ongoing attempts to destroy Elon Musk and X for opposing the woke mind virus and supporting free speech, recently ran false stories (disinformation) about increasing anti-semitism and other racism on X (formerly Twitter).
+									<ul>
+										<li>They have predictably chosen to completely overlook the anti-white racism which thrived on Twitter, and which still occurs frequently on X, because as they have been captured by leftist ideology they believe that White people can't experience racism and racial minorities can't possibly be racist.
+										</li>
+										<li>It is quite ironic now that leftists have gone full mask-off due to recent events in Israel, and have declared support for Hamas/Palestine's barbaric attacks and attempts at "decolonization" which include eradication of Jews (and other successful races).
+										</li>
+									</ul>
 								</li>
 							</ul>
 						</li>
@@ -1567,7 +1593,7 @@
 			</li>
 			<li>GitHub project clones:
 				<ul>
-					<li>racism: 1, 1 unique source
+					<li>racism: 1
 					</li>
 					<li>new portfolio: 5, 3 unique sources
 					</li>
@@ -1617,7 +1643,7 @@
 					</li>
 					<li>fan-mail: 2, 1 unique source
 					</li>
-					<li>racism: 1, 1 unique source
+					<li>racism: 1
 					</li>
 					<li>new portfolio: 3, 2 unique sources
 					</li>
@@ -1635,6 +1661,16 @@
 							<img src="./images/spam_8.png" style="border-radius: 0.5rem;">
 						</details>
 					</li>
+					<li>The e-mail address is similar to those of two other phishing e-mails I have received : _@_.biglobe.ne.jp.
+						<ul>
+							<li>See Attacks/Reactions section of the first main section of this document for screenshots of other e-mail phishing attempts.
+							</li>
+							<li><a href="https://en.wikipedia.org/wiki/BIGLOBE" target="_blank">BIGLOBE</a> is a Japanese internet service provider.
+							</li>
+							<li>Recall that <a href="https://github.com/mzch" target="_blank">Koichi Matsumoto</a>, the only other contributor to xyfir/MrXyfir's <a href="https://github.com/xyfir/ptorx" target="_blank">ptorx</a> GitHub repository, is Japanese and may currently live there.
+							</li>
+						</ul>
+					</li>
 				</ul>
 			</li>
 			<li>GitHub project clones:
@@ -1651,7 +1687,7 @@
 	</li>
 	<li>October 11
 		<ul>
-			<li>GitHub project clones: xnhl: 1, 1 unique source
+			<li>GitHub project clones: xnhl: 1
 			</li>
 		</ul>
 	</li>
@@ -1661,9 +1697,9 @@
 			</li>
 			<li>GitHub project clones:
 				<ul>
-					<li>riots: 1, 1 unique source
+					<li>riots: 1
 					</li>
-					<li>new portfolio: 1, 1 unique source
+					<li>new portfolio: 1
 					</li>
 				</ul>
 			</li>
@@ -1681,7 +1717,7 @@
 				</li>
 			</ul>
 			</li>
-			<li>GitHub project clones: racism: 1, 1 unique source
+			<li>GitHub project clones: racism: 1
 			</li>
 		</ul>
 	</li>
@@ -1691,7 +1727,7 @@
 
 ### Connections and Context
 <ul>
-	<li>Just four days after my racism repository was created the new activity/attacks started.
+	<li>Just four days after my <a href="https://github.com/xnhl/racism" target="_blank">racism</a> repository was created the new activity/attacks started.
 		<ul>
 			<li>Within the span of two days (October 9-10): 
 				<ul>
@@ -1709,9 +1745,9 @@
 			</li>
 		</ul>
 	</li>
-	<li>It seems probable that the racism repository was the thing that set off these recent attacks, and that BLM / "anti-racist" / "anti-fascist" types could be involved and/or responsible.
+	<li>It seems probable that the <a href="https://github.com/xnhl/racism" target="_blank">racism</a> repository was the thing that set off these recent attacks, and that BLM / "anti-racist" / "anti-fascist" types could be involved and/or responsible.
 		<ul>
-			<li>In addition to the racism repository, I'm fairly certain that my riots repository has been viewed and cloned many times by leftists / woke cultists / social justice warriors / black lives matter / antifa (so-called "anti-fascist") types, and that they may have chosen to target me as they do to anyone who dares to disagree with any of their views and/or expose their violence, ignorance, racism, hypocrisy, terrorism, LARPing / cosplaying, childishness / tantrums, and (ironically) fascist actions/tendencies.
+			<li>In addition to the <a href="https://github.com/xnhl/racism" target="_blank">racism</a> repository, I'm fairly certain that my <a href="https://github.com/xnhl/riots" target="_blank">riots</a> repository has been viewed and cloned many times by leftists / woke cultists / social justice warriors / black lives matter / antifa (so-called "anti-fascist") types, and that they may have chosen to target me as they do to anyone who dares to disagree with any of their views and/or expose their violence, ignorance, racism, hypocrisy, terrorism, <a href="https://en.wikipedia.org/wiki/Live_action_role-playing_game" target="_blank">LARP</a>ing / <a href="https://en.wikipedia.org/wiki/Cosplay" target="_blank">cosplaying</a>, childishness / tantrums, and (ironically) fascist actions/tendencies.
 			<ul>
 				<li>
 					<details>
@@ -1731,6 +1767,9 @@
 												<details>
 													<summary><p style="display: inline">"Don't you get it, you fucking fascist!?"</p></summary>
 													<img src="./images/blm_antifa.jpg" style="border-radius: 0.5rem;">
+													<img src="./images/5vvlgXuDtsWtIkAH9U98I.jpg" style="border-radius: 0.5rem;">
+													<img src="./images/TRW6laiiKmxlHl_6Y2Syc.jpg" style="border-radius: 0.5rem;">
+													<img src="./images/alm6FQ5w2haaf16rQSJeY.jpg" style="border-radius: 0.5rem;">
 												</details>
 											</li>
 											<li>Like most/all leftists/SJWs/Marxists/Communists/"anti-fascists" the Nazis:
@@ -1741,13 +1780,13 @@
 													</li>
 													<li>sought to merge state and corporate power (see Mussolini's definition of fascism)
 													</li>
-													<li>wished to forcibly suppress opposition (see rampant censorship on social media which is often demanded/supported by governments)
+													<li>wished to forcibly suppress opposition (compare with rampant censorship on social media which is often demanded/supported by governments)
 													</li>
-													<li>advocated a one-party state (illiberal leftist parasites, and the Democratic party which they have captured, often express their desire to eradicate Conservatives/Republicans, whom they ironically regard as Nazis/fascists, from all positions of power / government)
+													<li>advocated a one-party state (illiberal leftist parasites, and the Democratic party which they have captured, often express their desire to eradicate Conservatives/Republicans, whom they ironically regard as Nazis/fascists, from all positions of power / government (at least))
 													</li>
-													<li>were racist against a demonized "Other" (Nazis & Jews, leftists & Whites) against whom they often advocated genocides / mass killings / forced sterilizations / forced deportations (see my racism repository for many examples of all of these)
+													<li>were racist against a demonized "Other" (Nazis vs Jews, leftists vs Whites and other successful groups [Asians, Jews]) against whom they often advocated genocides / mass killings / forced sterilizations / forced deportations (see my racism repository for many examples of all of these)
 													</li>
-													<li>used violence and terrorism in order to achieve their goal of dominance (consider similarities between Hitler's Brownshirts and antifa terrorists)
+													<li>used violence and terrorism in order to achieve their goal of dominance (consider similarities between Hitler's <a href="https://en.wikipedia.org/wiki/Sturmabteilung" target="_blank">Brownshirts</a> and antifa terrorists)
 													</li>
 												</ul>
 											</li>
@@ -1821,7 +1860,7 @@
 					</li>
 					<li>I suspect that these messages are likely connected to the event described above since they had my phone number after I had called.
 					</li>
-					<li>Although they are a minor nuisance and changing my phone number would stop them, these futile attempts are a good reminder to be cautious, and they provide me with entertainment and motivation to continue the work that I'm doing with things like my riots and racism repositories as well as other projects.
+					<li>Although they are a minor nuisance and changing my phone number would stop them, these futile attempts are a good reminder to be cautious, and they provide me with entertainment and motivation to continue the work that I'm doing with things like my <a href="https://github.com/xnhl/riots" target="_blank">riots</a> and <a href="https://github.com/xnhl/racism" target="_blank">racism</a> repositories as well as other projects.
 					</li>
 					<li>
 						<details>
