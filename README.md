@@ -114,7 +114,7 @@
 								<ul>
 									<li><a href="https://en.wikipedia.org/wiki/BIGLOBE" target="_blank">BIGLOBE</a> is a Japanese internet service provider.
 									</li>
-									<li>Recall that Koichi Matsumoto, the only other contributor to xyfir/MrXyfir's ptorx GitHub repository, is Japanese and may currently live there.
+									<li>Recall that <a href="https://github.com/mzch" target="_blank">Koichi Matsumoto</a>, the only other contributor to xyfir/MrXyfir's <a href="https://github.com/xyfir/ptorx" target="_blank">ptorx</a> GitHub repository, is Japanese and may currently live there.
 									</li>
 								</ul>
 							</li>
@@ -1708,16 +1708,77 @@
 	<li>October 13
 		<ul>
 			<li>Phishing attempt received via phone / text message.
-			<ul>
-				<li>
-					<details>
-						<summary><p style="display: inline">Screenshot</p></summary>
-						<img src="./images/phish_text_12.png" style="border-radius: 0.5rem;">
-					</details>
-				</li>
-			</ul>
+				<ul>
+					<li>
+						<details>
+							<summary><p style="display: inline">Screenshot</p></summary>
+							<img src="./images/phish_text_12.png" style="border-radius: 0.5rem;">
+						</details>
+					</li>
+				</ul>
 			</li>
 			<li>GitHub project clones: racism: 1
+			</li>
+		</ul>
+	</li>
+	<li>October 20
+		<ul>
+			<li>This repository was updated.
+			</li>
+			<li>GitHub project clones: fan-mail
+				<ul>
+					<li>Before repository updated: 2, 1 unique source
+					</li>
+					<li>After repository updated: 2, 2 unique sources
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li>October 21
+		<ul>
+			<li>GitHub project clones: fan-mail: 1
+			</li>
+			<li>Phishing attempt received via phone / text message.
+				<ul>
+					<li>
+						<details>
+							<summary><p style="display: inline">Screenshot</p></summary>
+							<img src="./images/phish_text_13.png" style="border-radius: 0.5rem;">
+							<figcaption>Date not yet showing: Oct 21, 2023. Full sender e-mail address not visible on screen: my-jpchaseusercenter-msgaxfxmco@careers.mn.gov</figcaption>
+						</details>
+					</li>
+					<li>Full sender e-mail address not visible on screen: my-jpchaseusercenter-msgaxfxmco@careers.mn.gov
+						<ul>
+							<li>E-mail address suffix (careers.mn.gov) is interesting.
+								<ul>
+									<li><a href="https://careers.mn.gov" target="_blank">careers.mn.gov</a> redirects to <a href="https://mn.gov/mmb/careers/" target="_blank">offical government website</a> for careers in Minnesota state and its government.
+									</li>
+									<li>If this e-mail address isn't faked then the sender could be someone who is part of Minnesota's government, and it would be no surprise if they were a radical leftist activist.
+									</li>
+									<li>Potential BLM / antifa connections:
+										<ul>
+											<li>Judging from information I've seen antifa and BLM types have a significant presence in Minnesota, and they surely have supporters and infiltrators in government.
+											</li>
+											<li>Minneapolis, Minnesota was one of the central places where the insane riots, looting, and destruction started after violent career criminal George Floyd (now a saint of the far-left cult) famously died of a drug overdose (though activists and their presstitutes falsely claim that it was police brutality which killed him).
+												<ul>
+													<li>
+														<details>
+															<summary><p style="display: inline">George Floyd autopsy report</p></summary>
+															<img src="./images/george_floyd_overdose.png" style="border-radius: 0.5rem;">
+														</details>
+													</li>
+												</ul>
+											</li>
+											<li>BLM / antifa types who have seen my <a href="https://github.com/xnhl/riots" target="_blank">riots</a> repository have probably been seething and eager for revenge because I shared the information which I scraped: tons of social media posts and terabytes of images / videos which document the carnage of the various riots and other insanity which occurred.
+											</li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
 			</li>
 		</ul>
 	</li>
@@ -1784,7 +1845,7 @@
 													</li>
 													<li>advocated a one-party state (illiberal leftist parasites, and the Democratic party which they have captured, often express their desire to eradicate Conservatives/Republicans, whom they ironically regard as Nazis/fascists, from all positions of power / government (at least))
 													</li>
-													<li>were racist against a demonized "Other" (Nazis vs Jews, leftists vs Whites and other successful groups [Asians, Jews]) against whom they often advocated genocides / mass killings / forced sterilizations / forced deportations (see my racism repository for many examples of all of these)
+													<li>were racist against a demonized "Other" (Nazis vs Jews, leftists vs Whites and other successful groups like Asians and Jews) against whom they often advocated genocides / mass killings / forced sterilizations / forced deportations (see my racism repository for many examples of all of these)
 													</li>
 													<li>used violence and terrorism in order to achieve their goal of dominance (consider similarities between Hitler's <a href="https://en.wikipedia.org/wiki/Sturmabteilung" target="_blank">Brownshirts</a> and antifa terrorists)
 													</li>
@@ -1909,6 +1970,10 @@
 							<figure style="margin: 1rem;">
 								<img src="./images/phish_text_12.png" style="border-radius: 0.5rem;">
 								<figcaption>Date not yet showing: Oct 13, 2023. My phone number has been redacted.</figcaption>
+							</figure>
+							<figure style="margin: 1rem;">
+								<img src="./images/phish_text_13.png" style="border-radius: 0.5rem;">
+								<figcaption>Date not yet showing: Oct 21, 2023. Full sender e-mail address not visible on screen: my-jpchaseusercenter-msgaxfxmco@careers.mn.gov</figcaption>
 							</figure>
 						</details>
 					</li>
