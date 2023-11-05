@@ -82,7 +82,7 @@
 			</li>
 		</ul>
 	</li>
-	<li>I will continue gathering information and updating this repository as long as strange events / attacks continue to occur.
+	<li>I will continue gathering information and updating this document as long as strange events / attacks continue to occur.
 	</li>
 	<li>Updates:
 		<ul>
@@ -1745,7 +1745,7 @@
 						<details>
 							<summary><p style="display: inline">Screenshot</p></summary>
 							<img src="./images/phish_text_13.png" style="border-radius: 0.5rem;">
-							<figcaption>Date not yet showing: Oct 21, 2023. Full sender e-mail address not visible on screen: my-jpchaseusercenter-msgaxfxmco@careers.mn.gov</figcaption>
+							<figcaption>Full sender e-mail address not visible on screen: my-jpchaseusercenter-msgaxfxmco@careers.mn.gov</figcaption>
 						</details>
 					</li>
 					<li>Full sender e-mail address not visible on screen: my-jpchaseusercenter-msgaxfxmco@careers.mn.gov
@@ -1760,7 +1760,7 @@
 										<ul>
 											<li>Judging from information I've seen antifa and BLM types have a significant presence in Minnesota, and they surely have supporters and infiltrators in government.
 											</li>
-											<li>Minneapolis, Minnesota was one of the central places where the insane riots, looting, and destruction started after violent career criminal George Floyd (now a saint of the far-left cult) famously died of a drug overdose (though activists and their presstitutes falsely claim that it was police brutality which killed him).
+											<li>Minneapolis, Minnesota was one of the central places where the insane riots, looting, and destruction started after drug addict and violent career criminal George Floyd (now a saint of the far-left cult) famously died of a drug overdose (though activists and their presstitutes falsely claim that it was police brutality which killed him).
 												<ul>
 													<li>
 														<details>
@@ -1773,6 +1773,44 @@
 											<li>BLM / antifa types who have seen my <a href="https://github.com/xnhl/riots" target="_blank">riots</a> repository have probably been seething and eager for revenge because I shared the information which I scraped: tons of social media posts and terabytes of images / videos which document the carnage of the various riots and other insanity which occurred.
 											</li>
 										</ul>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li>November 5
+		<ul>
+			<li>It has been two weeks since the previous update to this document and I have received no new phishing e-mails or text messages.
+				<ul>
+					<li>This unusual silence may reveal some things:
+						<ul>
+							<li>Watchers have finally accepted that their risible efforts are futile and they've made a mistake by targeting someone like me.
+							</li>
+							<li>Recent additions to this document are close to revealing those who have been targeting me and the attackers are worried/afraid.
+								<ul>
+									<li>Possibility 1: Note in October 21 update above regarding latest phishing attempt via text message from my-jpchaseusercenter-msgaxfxmco@careers.mn.gov and its probable connection to someone working in Minnesota state government.
+									</li>
+									<li>Possibility 2: Note in October 10 update above regarding several phishing e-mails from _@_.biglobe.ne.jp and their possible connection to <a href="https://github.com/mzch" target="_blank">Koichi Matsumoto</a> who is close to <a href="https://github.com/xyfir" target="_blank">xyfir</a>/<a href="https://github.com/MrXyfir" target="_blank">MrXyfir</a> (Eric Digo Ritonga).
+										<ul>
+											<li>See first main section of this document for more information.
+											</li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li>I have since made a new repository on October 28th (lehDpvE_w4T9KegAyt8wNqw) with the intention of determining whether my repositories are still being watched.
+						<ul>
+							<li>Success:
+								<ul>
+									<li>First commit: 5 clones (5 unique sources)
+									</li>
+									<li>Second/third commits: 6 clones (5 unique sources) over the span of 3 days
 									</li>
 								</ul>
 							</li>
@@ -1808,13 +1846,13 @@
 	</li>
 	<li>It seems probable that the <a href="https://github.com/xnhl/racism" target="_blank">racism</a> repository was the thing that set off these recent attacks, and that BLM / "anti-racist" / "anti-fascist" types could be involved and/or responsible.
 		<ul>
-			<li>In addition to the <a href="https://github.com/xnhl/racism" target="_blank">racism</a> repository, I'm fairly certain that my <a href="https://github.com/xnhl/riots" target="_blank">riots</a> repository has been viewed and cloned many times by leftists / woke cultists / social justice warriors / black lives matter / antifa (so-called "anti-fascist") types, and that they may have chosen to target me as they do to anyone who dares to disagree with any of their views and/or expose their violence, ignorance, racism, hypocrisy, terrorism, <a href="https://en.wikipedia.org/wiki/Live_action_role-playing_game" target="_blank">LARP</a>ing / <a href="https://en.wikipedia.org/wiki/Cosplay" target="_blank">cosplaying</a>, childishness / tantrums, and (ironically) fascist actions/tendencies.
+			<li>In addition to the <a href="https://github.com/xnhl/racism" target="_blank">racism</a> repository, I'm fairly certain that my <a href="https://github.com/xnhl/riots" target="_blank">riots</a> repository has been viewed and cloned many times by leftists / woke cultists / social justice warriors / black lives matter / antifa (so-called "anti-fascist") / cluster B types, and that they may have chosen to target me as they do to anyone who dares to disagree with any of their views and/or expose their violence, ignorance, racism, hypocrisy, terrorism, <a href="https://en.wikipedia.org/wiki/Live_action_role-playing_game" target="_blank">LARP</a>ing / <a href="https://en.wikipedia.org/wiki/Cosplay" target="_blank">cosplaying</a>, childishness / tantrums, and (ironically) fascist actions/tendencies.
 			<ul>
 				<li>
 					<details>
 						<summary><p style="display: inline">Fascists?</p></summary>
 						<ul>
-							<li>Common among super edgy leftists, social justice warriors, Democrats, "anti-fascists", and similar types is the view that essential to "saving our democracy" (preserving their control) and "fighting disinformation" (purging and banning all but the infallible narratives of governments & leftist activists) is merging state and corporate power (government + media, social media) in order to forcibly suppress, censor, and ban any/all dissent and opposition to them.
+							<li>Common among super edgy leftists, social justice warriors, Democrats, "anti-fascists", and similar cluster B types is the view that essential to "saving our democracy" (preserving their control) and "fighting disinformation" (purging and banning all but the infallible narratives of governments & leftist activists) is merging state and corporate power (government + media, social media) in order to forcibly suppress, censor, and ban any/all dissent and opposition to them.
 								<ul>
 									<li>This is textbook fascism.
 									</li>
@@ -1873,6 +1911,8 @@
 						</details>
 					</li>
 					<li>The e-mail was received at the address associated with this GitHub account.
+					</li>
+					<li>Sender address not pictured: noreply@cardfraudalerts.com.
 					</li>
 					<li>This occurred ~7 weeks before the MrXyfir situation started which may indicate a connection.
 					<li>Due to the amount of time that has passed since these events I don't recall them all exactly but I remember most of what happened.
@@ -1969,11 +2009,11 @@
 							</figure>
 							<figure style="margin: 1rem;">
 								<img src="./images/phish_text_12.png" style="border-radius: 0.5rem;">
-								<figcaption>Date not yet showing: Oct 13, 2023. My phone number has been redacted.</figcaption>
+								<figcaption>My phone number has been redacted.</figcaption>
 							</figure>
 							<figure style="margin: 1rem;">
 								<img src="./images/phish_text_13.png" style="border-radius: 0.5rem;">
-								<figcaption>Date not yet showing: Oct 21, 2023. Full sender e-mail address not visible on screen: my-jpchaseusercenter-msgaxfxmco@careers.mn.gov</figcaption>
+								<figcaption>Full sender e-mail address not visible on screen: my-jpchaseusercenter-msgaxfxmco@careers.mn.gov</figcaption>
 							</figure>
 						</details>
 					</li>
