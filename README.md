@@ -12,7 +12,7 @@
 		<details>
 			<summary><p style="display: inline">Screenshot</p></summary>
 			<figure style="margin: 1rem;">
-				<img src="./images/MrXyfir_follow.png" style="border-radius: 0.5rem;">
+				<img src="./images/mrxyfir_github/MrXyfir_follow.png" style="border-radius: 0.5rem;">
 			</figure>
 		</details>
 		</li>
@@ -33,7 +33,7 @@
 						<details>
 							<summary><p style="display: inline">Screenshot of e-mail</p></summary>
 							<figure style="margin: 1rem;">
-								<img src="./images/MrXyfir_initial_message.png" style="border-radius: 0.5rem;">
+								<img src="./images/messages/MrXyfir_initial_message.png" style="border-radius: 0.5rem;">
 							</figure>
 						</details>
 					</li>
@@ -50,11 +50,11 @@
 							<details>
 								<summary><p style="display: inline">Screenshots</p></summary>
 								<figure style="margin: 1rem;">
-									<img src="./images/ptorx.png" style="border-radius: 0.5rem;">
+									<img src="./images/ptorx/ptorx.png" style="border-radius: 0.5rem;">
 									<figcaption>ptorx (GitHub)</figcaption>
 								</figure>
 								<figure style="margin: 1rem;">
-									<img src="./images/ptorx_contributors.png" style="border-radius: 0.5rem;">
+									<img src="./images/ptorx/ptorx/ptorx_contributors.png" style="border-radius: 0.5rem;">
 									<figcaption>ptorx contributors (GitHub)</figcaption>
 								</figure>
 							</details>
@@ -146,16 +146,16 @@
 							<details>
 								<summary><p style="display: inline">Screenshots</p></summary>
 								<figure style="margin: 1rem;">
-									<img src="./images/Screenshot 2022-07-20 at 12-44-20 x (u_MrXyfir) - Reddit.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_reddit/Screenshot 2022-07-20 at 12-44-20 x (u_MrXyfir) - Reddit.png" style="border-radius: 0.5rem;">
 								</figure>
 								<figure style="margin: 1rem;">
-									<img src="./images/Screenshot 2022-07-20 at 12-45-06 x (u_MrXyfir) - Reddit.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_reddit/Screenshot 2022-07-20 at 12-45-06 x (u_MrXyfir) - Reddit.png" style="border-radius: 0.5rem;">
 								</figure>
 								<figure style="margin: 1rem;">
-									<img src="./images/Screenshot 2022-07-20 at 12-45-22 x (u_MrXyfir) - Reddit.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_reddit/Screenshot 2022-07-20 at 12-45-22 x (u_MrXyfir) - Reddit.png" style="border-radius: 0.5rem;">
 								</figure>
 								<figure style="margin: 1rem;">
-									<img src="./images/Screenshot 2022-07-20 at 12-46-27 gilded by MrXyfir.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_reddit/Screenshot 2022-07-20 at 12-46-27 gilded by MrXyfir.png" style="border-radius: 0.5rem;">
 								</figure>
 							</details>
 						</li>
@@ -203,55 +203,55 @@
 								<details>
 									<summary><p style="display: inline">Screenshots</p></summary>
 									<figure style="margin: 1rem;">
-										<img src="./images/MrXyfir_Twitter.png" style="border-radius: 0.5rem;">
+										<img src="./images/mrxyfir_twitter/MrXyfir_Twitter.png" style="border-radius: 0.5rem;">
 										<figcaption>MrXyfir main page details</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/MrXyfir_Twitter_ajZkJZDu_400x400.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/mrxyfir_twitter/MrXyfir_Twitter_ajZkJZDu_400x400.jpg" style="border-radius: 0.5rem;">
 										<figcaption>MrXyfir Twitter Avatar</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/MrXyfir_Twitter_Tweet.png" style="border-radius: 0.5rem;">
+										<img src="./images/mrxyfir_twitter/MrXyfir_Twitter_Tweet.png" style="border-radius: 0.5rem;">
 										<figcaption>MrXyfir only tweet</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/MrXyfir_Twitter_Likes.png" style="border-radius: 0.5rem;">
+										<img src="./images/mrxyfir_twitter/MrXyfir_Twitter_Likes.png" style="border-radius: 0.5rem;">
 										<figcaption>MrXyfir Twitter likes</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/MrXyfir_Twitter_Tweet_Likes1.png" style="border-radius: 0.5rem;">
+										<img src="./images/mrxyfir_twitter/MrXyfir_Twitter_Tweet_Likes1.png" style="border-radius: 0.5rem;">
 										<figcaption>MrXyfir only tweet likes</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/MrXyfir_Twitter_Tweet_Likes2.png" style="border-radius: 0.5rem;">
+										<img src="./images/mrxyfir_twitter/MrXyfir_Twitter_Tweet_Likes2.png" style="border-radius: 0.5rem;">
 										<figcaption>MrXyfir only tweet likes</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/MrXyfir_Twitter_Followers_1.png" style="border-radius: 0.5rem;">
+										<img src="./images/mrxyfir_twitter/MrXyfir_Twitter_Followers_1.png" style="border-radius: 0.5rem;">
 										<figcaption>MrXyfir Twitter Followers Part 1</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/MrXyfir_Twitter_Followers_2.png" style="border-radius: 0.5rem;">
+										<img src="./images/mrxyfir_twitter/MrXyfir_Twitter_Followers_2.png" style="border-radius: 0.5rem;">
 										<figcaption>MrXyfir Twitter Followers Part 2</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/MrXyfir_Twitter_Followers_3.png" style="border-radius: 0.5rem;">
+										<img src="./images/mrxyfir_twitter/MrXyfir_Twitter_Followers_3.png" style="border-radius: 0.5rem;">
 										<figcaption>MrXyfir Twitter Followers Part 3</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/MrXyfir_Twitter_Followers_4.png" style="border-radius: 0.5rem;">
+										<img src="./images/mrxyfir_twitter/MrXyfir_Twitter_Followers_4.png" style="border-radius: 0.5rem;">
 										<figcaption>MrXyfir Twitter Followers Part 4</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/MrXyfir_Twitter_Followers_5.png" style="border-radius: 0.5rem;">
+										<img src="./images/mrxyfir_twitter/MrXyfir_Twitter_Followers_5.png" style="border-radius: 0.5rem;">
 										<figcaption>MrXyfir Twitter Followers Part 5</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/MrXyfir_Twitter_Followers_6.png" style="border-radius: 0.5rem;">
+										<img src="./images/mrxyfir_twitter/MrXyfir_Twitter_Followers_6.png" style="border-radius: 0.5rem;">
 										<figcaption>MrXyfir Twitter Followers Part 6</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/MrXyfir_Twitter_Followers_7.png" style="border-radius: 0.5rem;">
+										<img src="./images/mrxyfir_twitter/MrXyfir_Twitter_Followers_7.png" style="border-radius: 0.5rem;">
 										<figcaption>MrXyfir Twitter Followers Part 7</figcaption>
 									</figure>
 								</details>
@@ -285,47 +285,47 @@
 								<details>
 									<summary><p style="display: inline">Screenshots</p></summary>
 									<figure style="margin: 1rem;">
-										<img src="./images/Ptorx_Twitter.png" style="border-radius: 0.5rem;">
+										<img src="./images/ptorx/Ptorx_Twitter.png" style="border-radius: 0.5rem;">
 										<figcaption>Ptorx Twitter</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Ptorx_Twitter_vugJb2_z_400x400.png" style="border-radius: 0.5rem;">
+										<img src="./images/ptorx/Ptorx_Twitter_vugJb2_z_400x400.png" style="border-radius: 0.5rem;">
 										<figcaption>Ptorx Twitter avatar</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Ptorx_Twitter_Followers1.png" style="border-radius: 0.5rem;">
+										<img src="./images/ptorx/Ptorx_Twitter_Followers1.png" style="border-radius: 0.5rem;">
 										<figcaption>Ptorx Twitter followers 1</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Ptorx_Twitter_Followers2.png" style="border-radius: 0.5rem;">
+										<img src="./images/ptorx/Ptorx_Twitter_Followers2.png" style="border-radius: 0.5rem;">
 										<figcaption>Ptorx Twitter followers 2</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Ptorx_Twitter_Tweet_1.png" style="border-radius: 0.5rem;">
+										<img src="./images/ptorx/Ptorx_Twitter_Tweet_1.png" style="border-radius: 0.5rem;">
 										<figcaption>Ptorx Twitter Tweet 1</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Ptorx_Twitter_Tweet_2.png" style="border-radius: 0.5rem;">
+										<img src="./images/ptorx/Ptorx_Twitter_Tweet_2.png" style="border-radius: 0.5rem;">
 										<figcaption>Ptorx Twitter Tweet 2</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Ptorx_Twitter_Tweet_3.png" style="border-radius: 0.5rem;">
+										<img src="./images/ptorx/Ptorx_Twitter_Tweet_3.png" style="border-radius: 0.5rem;">
 										<figcaption>Ptorx Twitter Tweet 3</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Ptorx_Twitter_Tweet_4.png" style="border-radius: 0.5rem;">
+										<img src="./images/ptorx/Ptorx_Twitter_Tweet_4.png" style="border-radius: 0.5rem;">
 										<figcaption>Ptorx Twitter Tweet 4</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Ptorx_Twitter_Tweet_5.png" style="border-radius: 0.5rem;">
+										<img src="./images/ptorx/Ptorx_Twitter_Tweet_5.png" style="border-radius: 0.5rem;">
 										<figcaption>Ptorx Twitter Tweet 5</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Ptorx_Twitter_Tweet_6.png" style="border-radius: 0.5rem;">
+										<img src="./images/ptorx/Ptorx_Twitter_Tweet_6.png" style="border-radius: 0.5rem;">
 										<figcaption>Ptorx Twitter Tweet 6</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Ptorx_Twitter_Tweet_Image_EET570jVUAUMn0h.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/ptorx/Ptorx_Twitter_Tweet_Image_EET570jVUAUMn0h.jpg" style="border-radius: 0.5rem;">
 										<figcaption>Ptorx image from tweet</figcaption>
 									</figure>
 								</details>
@@ -341,7 +341,7 @@
 								<details>
 									<summary><p style="display: inline">Screenshot</p></summary>
 									<figure style="margin: 1rem;">
-										<img src="./images/Xyfir_twitter_alternate.png" style="border-radius: 0.5rem;">
+										<img src="./images/mrxyfir_twitter/Xyfir_twitter_alternate.png" style="border-radius: 0.5rem;">
 									</figure>
 								</details>
 							</li>
@@ -370,10 +370,10 @@
 						<details>
 							<summary><p style="display: inline">Screenshots</p></summary>
 							<figure style="margin: 1rem;">
-								<img src="./images/youtube_1.png" style="border-radius: 0.5rem;">
+								<img src="./images/mrxyfir_other/youtube_1.png" style="border-radius: 0.5rem;">
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/youtube_2.png" style="border-radius: 0.5rem;">
+								<img src="./images/mrxyfir_other/youtube_2.png" style="border-radius: 0.5rem;">
 							</figure>
 						</details>
 					</li>
@@ -385,7 +385,7 @@
 					<details>
 						<summary><p style="display: inline">Screenshot</p></summary>
 						<figure style="margin: 1rem;">
-							<img src="./images/TikTok.png" style="border-radius: 0.5rem;">
+							<img src="./images/mrxyfir_other/TikTok.png" style="border-radius: 0.5rem;">
 						</figure>
 					</details>
 				</li>
@@ -401,7 +401,7 @@
 							<details>
 								<summary><p style="display: inline">Activity history</p></summary>
 								<figure style="margin: 1rem;">
-									<img src="./images/github_history.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_github/github_history.png" style="border-radius: 0.5rem;">
 								</figure>
 							</details>
 						</li>
@@ -409,7 +409,7 @@
 							<details>
 								<summary><p style="display: inline">MrXyfir repositories</p></summary>
 								<figure style="margin: 1rem;">
-									<img src="./images/mrxyfir_repos.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_github/mrxyfir_repos.png" style="border-radius: 0.5rem;">
 								</figure>
 							</details>
 						</li>
@@ -417,7 +417,7 @@
 							<details>
 								<summary><p style="display: inline">xyfir repositories (page 1)</p></summary>
 								<figure style="margin: 1rem;">
-									<img src="./images/xyfir_repos_page1.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_github/xyfir_repos_page1.png" style="border-radius: 0.5rem;">
 								</figure>
 							</details>
 						</li>
@@ -425,7 +425,7 @@
 							<details>
 								<summary><p style="display: inline">xyfir repositories (page 2)</p></summary>
 								<figure style="margin: 1rem;">
-									<img src="./images/xyfir_repos_page2.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_github/xyfir_repos_page2.png" style="border-radius: 0.5rem;">
 								</figure>
 							</details>
 						</li>
@@ -433,7 +433,7 @@
 							<details>
 								<summary><p style="display: inline">MrXyfir stars (page 1)</p></summary>
 								<figure style="margin: 1rem;">
-									<img src="./images/mrxyfir_stars_1.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_github/mrxyfir_stars_1.png" style="border-radius: 0.5rem;">
 								</figure>
 							</details>
 						</li>
@@ -441,7 +441,7 @@
 							<details>
 								<summary><p style="display: inline">MrXyfir stars (page 2)</p></summary>
 								<figure style="margin: 1rem;">
-									<img src="./images/mrxyfir_stars_2.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_github/mrxyfir_stars_2.png" style="border-radius: 0.5rem;">
 								</figure>
 							</details>
 						</li>
@@ -449,7 +449,7 @@
 							<details>
 								<summary><p style="display: inline">MrXyfir stars (page 3)</p></summary>
 								<figure style="margin: 1rem;">
-									<img src="./images/mrxyfir_stars_3.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_github/mrxyfir_stars_3.png" style="border-radius: 0.5rem;">
 								</figure>
 							</details>
 						</li>
@@ -457,7 +457,7 @@
 							<details>
 								<summary><p style="display: inline">MrXyfir stars (page 4)</p></summary>
 								<figure style="margin: 1rem;">
-									<img src="./images/mrxyfir_stars_4.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_github/mrxyfir_stars_4.png" style="border-radius: 0.5rem;">
 								</figure>
 							</details>
 						</li>
@@ -465,7 +465,7 @@
 							<details>
 								<summary><p style="display: inline">MrXyfir stars (page 5)</p></summary>
 								<figure style="margin: 1rem;">
-									<img src="./images/mrxyfir_stars_5.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_github/mrxyfir_stars_5.png" style="border-radius: 0.5rem;">
 								</figure>
 							</details>
 						</li>
@@ -473,7 +473,7 @@
 							<details>
 								<summary><p style="display: inline">MrXyfir stars (page 6)</p></summary>
 								<figure style="margin: 1rem;">
-									<img src="./images/mrxyfir_stars_6.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_github/mrxyfir_stars_6.png" style="border-radius: 0.5rem;">
 								</figure>
 							</details>
 						</li>
@@ -481,7 +481,7 @@
 							<details>
 								<summary><p style="display: inline">MrXyfir stars (page 7)</p></summary>
 								<figure style="margin: 1rem;">
-									<img src="./images/mrxyfir_stars_7.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_github/mrxyfir_stars_7.png" style="border-radius: 0.5rem;">
 								</figure>
 							</details>
 						</li>
@@ -503,7 +503,7 @@
 							<details>
 								<summary><p style="display: inline">Screenshot 1</p></summary>
 								<figure style="margin: 1rem;">
-									<img src="./images/fiver1.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_other/fiver1.png" style="border-radius: 0.5rem;">
 									<figcaption>Fiverr screenshot 1</figcaption>
 								</figure>
 							</details>
@@ -512,7 +512,7 @@
 							<details>
 								<summary><p style="display: inline">Screenshot 2</p></summary>
 								<figure style="margin: 1rem;">
-									<img src="./images/fiver2.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_other/fiver2.png" style="border-radius: 0.5rem;">
 									<figcaption>Fiverr screenshot 2</figcaption>
 								</figure>
 							</details>
@@ -549,13 +549,13 @@
 										<ul>
 											<li>
 												<a href="https://twitter.com/MK88588" target="_blank">MK88588</a>
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_account_profile_1.png">
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_account_message_1.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_accounts/twitter_fake_account_profile_1.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_accounts/twitter_fake_account_message_1.png">
 											</li>
 											<li>
 												<a href="https://twitter.com/fhuy85838910" target="_blank">fhuy85838910</a>
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_account_profile_2.png">
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_account_message_2.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_accounts/twitter_fake_account_profile_2.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_accounts/twitter_fake_account_message_2.png">
 											</li>
 										</ul>
 									</details>
@@ -566,70 +566,70 @@
 										<ul>
 											<li>
 												<a href="https://twitter.com/jainmonty89" target="_blank">jainmonty89</a>
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_jainmonty89.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_followers/twitter_fake_follower_jainmonty89.png">
 											</li>
 											<li>
 												<a href="https://twitter.com/alvaLeaf" target="_blank">alvaLeaf</a>
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_alvaLeaf.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_followers/twitter_fake_follower_alvaLeaf.png">
 											</li>
 											<li>
 												<a href="https://twitter.com/Poek_bz" target="_blank">Poek_bz</a>
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_Poek_bz.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_followers/twitter_fake_follower_Poek_bz.png">
 											</li>
 											<li>
 												<a href="https://twitter.com/Undinezq" target="_blank">Undinezq</a>
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_Undinezq.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_followers/twitter_fake_follower_Undinezq.png">
 											</li>
 											<li>
 												<a href="https://twitter.com/BenBeezy0000" target="_blank">BenBeezy0000</a>
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_BenBeezy0000.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_followers/twitter_fake_follower_BenBeezy0000.png">
 											</li>
 											<li>
 												<a href="https://twitter.com/Bananazxa" target="_blank">Bananazxa</a>
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_Bananazxa.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_followers/twitter_fake_follower_Bananazxa.png">
 											</li>
 											<li>
 												<a href="https://twitter.com/LiXinya14" target="_blank">LiXinya14</a>
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_LiXinya14.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_followers/twitter_fake_follower_LiXinya14.png">
 											</li>
 											<li>
 												<a href="https://twitter.com/SaraZi0719" target="_blank">SaraZi0719</a>
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_SaraZi0719.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_followers/twitter_fake_follower_SaraZi0719.png">
 											</li>
 											<li>
 												<a href="https://twitter.com/sppass_l" target="_blank">sppass_l</a>
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_sppass_l.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_followers/twitter_fake_follower_sppass_l.png">
 											</li>
 											<li>
 												<a href="https://twitter.com/nangongyan13" target="_blank">nangongyan13</a>
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_nangongyan13.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_followers/twitter_fake_follower_nangongyan13.png">
 											</li>
 											<li>
 												<a href="https://twitter.com/Lihuymnyue" target="_blank">Lihuymnyue</a>
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_Lihuymnyue.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_followers/twitter_fake_follower_Lihuymnyue.png">
 											</li>
 											<li>
 												<a href="https://twitter.com/msourish10" target="_blank">msourish10</a>
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_msourish10.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_followers/twitter_fake_follower_msourish10.png">
 											</li>
 											<li>
 												<a href="https://twitter.com/YeliJess" target="_blank">YeliJess</a>
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_YeliJess.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_followers/twitter_fake_follower_YeliJess.png">
 											</li>
 											<li>
 												<a href="https://twitter.com/dnyanesmia" target="_blank">dnyanesmia</a>
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_dnyanesmia.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_followers/twitter_fake_follower_dnyanesmia.png">
 											</li>
 											<li>
 												<a href="https://twitter.com/RaajesOdelonges" target="_blank">RaajesOdelonges</a>
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_RaajesOdelonges.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_followers/twitter_fake_follower_RaajesOdelonges.png">
 											</li>
 											<li>
 												<a href="https://twitter.com/Taniajkjk" target="_blank">Taniajkjk</a></li> (has since blocked me (lol))
-													<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_Taniajkjk.png">
+													<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_followers/twitter_fake_follower_Taniajkjk.png">
 											<li>
 												<a href="https://twitter.com/WuwangSelena" target="_blank">WuwangSelena</a> (former account: pharmslee)
-												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_follower_WuwangSelena.png">
+												<img style="display: block; margin: 0.5rem; border-radius: 0.5rem;" src="./images/twitter_fake_followers/twitter_fake_follower_WuwangSelena.png">
 											</li>
 										</ul>
 									</details>
@@ -689,7 +689,7 @@
 									<details>
 										<summary><p style="display: inline">Main page</p></summary>
 										<figure style="margin: 1rem;">
-											<img src="./images/mrxyfir_github_achievements.png" style="border-radius: 0.5rem;">
+											<img src="./images/mrxyfir_github/mrxyfir_github_achievements.png" style="border-radius: 0.5rem;">
 										</figure>
 									</details>
 								</li>
@@ -697,7 +697,7 @@
 									<details>
 										<summary><p style="display: inline">Fake achievement 1 (Quickdraw)</p></summary>
 										<figure style="margin: 1rem;">
-											<img src="./images/fake_achievement_1.png" style="border-radius: 0.5rem;">
+											<img src="./images/mrxyfir_github/fake_achievement_1.png" style="border-radius: 0.5rem;">
 										</figure>
 									</details>
 								</li>
@@ -705,7 +705,7 @@
 									<details>
 										<summary><p style="display: inline">Fake achievement 2 (Pull Shark)</p></summary>
 										<figure style="margin: 1rem;">
-											<img src="./images/fake_achievement_2.png" style="border-radius: 0.5rem;">
+											<img src="./images/mrxyfir_github/fake_achievement_2.png" style="border-radius: 0.5rem;">
 										</figure>
 									</details>
 								</li>
@@ -716,7 +716,7 @@
 							<details>
 								<summary><p style="display: inline">Stars/favorites his own repositories.</p></summary>
 								<figure style="margin: 1rem;">
-									<img src="./images/mrxyfir_fake_stargazers.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_github/mrxyfir_fake_stargazers.png" style="border-radius: 0.5rem;">
 								</figure>
 							</details>
 						</li>
@@ -726,7 +726,7 @@
 								<p>Currently it says 5,355 contributions in the last year which is roughly 15 per day and seems unrealistic.</p>
 								<div>This could easily be faked with a tool like <a href="https://github.com/angusshire/greenhat" target="_blank">greenhat</a>.</div>
 								<figure style="margin: 1rem;">
-									<img src="./images/mrxyfir_fake_commits.png" style="border-radius: 0.5rem;">
+									<img src="./images/mrxyfir_github/mrxyfir_fake_commits.png" style="border-radius: 0.5rem;">
 								</figure>
 							</details>
 						</li>
@@ -744,7 +744,7 @@
 						<details>
 							<summary>Screenshot</summary>
 							<figure style="margin: 1rem;">
-								<img src="./images/chinese_translation.png" style="border-radius: 0.5rem;">
+								<img src="./images/mrxyfir_github/chinese_translation.png" style="border-radius: 0.5rem;">
 							</figure>
 						</details>
 						</li>
@@ -767,7 +767,7 @@
 									<details>
 										<summary><p style="display: inline">Screenshot</p></summary>
 										<figure style="margin: 1rem;">
-											<img src="./images/Bitcoin_Price_6months.png" style="border-radius: 0.5rem;">
+											<img src="./images/other/Bitcoin_Price_6months.png" style="border-radius: 0.5rem;">
 										</figure>
 									</details>
 								</li>
@@ -795,11 +795,11 @@
 								<details>
 									<summary><p style="display: inline">Screenshots</p></summary>
 									<figure style="margin: 1rem;">
-										<img src="./images/MrXyfir_Twitter_Tweet_Likes1.png" style="border-radius: 0.5rem;">
+										<img src="./images/mrxyfir_twitter/MrXyfir_Twitter_Tweet_Likes1.png" style="border-radius: 0.5rem;">
 										<figcaption>MrXyfir only tweet likes</figcaption>
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/MrXyfir_Twitter_Tweet_Likes2.png" style="border-radius: 0.5rem;">
+										<img src="./images/mrxyfir_twitter/MrXyfir_Twitter_Tweet_Likes2.png" style="border-radius: 0.5rem;">
 										<figcaption>MrXyfir only tweet likes</figcaption>
 									</figure>
 								</details>
@@ -871,7 +871,7 @@
 									<details>
 										<summary><p style="display: inline">Screenshot</p></summary>
 										<figure style="margin: 1rem;">
-											<img src="./images/linkedin_koichi_matsumoto.png" style="border-radius: 0.5rem;">
+											<img src="./images/other/linkedin_koichi_matsumoto.png" style="border-radius: 0.5rem;">
 										</figure>
 									</details>
 								</li>
@@ -905,7 +905,7 @@
 									<details>
 										<summary><p style="display: inline">Main page</p></summary>
 										<figure style="margin: 1rem;">
-											<img src="./images/Omar111122.png" style="border-radius: 0.5rem;">
+											<img src="./images/mrxyfir_github/Omar111122.png" style="border-radius: 0.5rem;">
 										</figure>
 									</details>
 								</li>
@@ -913,7 +913,7 @@
 									<details>
 										<summary><p style="display: inline">Following</p></summary>
 										<figure style="margin: 1rem;">
-											<img src="./images/Omar111122_following.png" style="border-radius: 0.5rem;">
+											<img src="./images/mrxyfir_github/Omar111122_following.png" style="border-radius: 0.5rem;">
 										</figure>
 									</details>
 								</li>
@@ -921,7 +921,7 @@
 									<details>
 										<summary><p style="display: inline">Repositories</p></summary>
 										<figure style="margin: 1rem;">
-											<img src="./images/Omar111122_repos.png" style="border-radius: 0.5rem;">
+											<img src="./images/mrxyfir_github/Omar111122_repos.png" style="border-radius: 0.5rem;">
 										</figure>
 									</details>
 								</li>
@@ -935,7 +935,7 @@
 									<details>
 										<summary><p style="display: inline">Screenshot</p></summary>
 										<figure style="margin: 1rem;">
-											<img src="./images/Omar111122_howtohack.png" style="border-radius: 0.5rem;">
+											<img src="./images/mrxyfir_github/Omar111122_howtohack.png" style="border-radius: 0.5rem;">
 										</figure>
 									</details>
 								</li>
@@ -961,40 +961,40 @@
 								<details>
 									<summary><p style="display: inline">Screenshots:</p></summary>
 									<figure style="margin: 1rem;">
-										<img src="./images/Facebook - Eric Digo Ritonga - Profile Image.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/eric_ritonga/Facebook - Eric Digo Ritonga - Profile Image.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Facebook - Eric Digo Ritonga - Posts.png" style="border-radius: 0.5rem;">
+										<img src="./images/eric_ritonga/Facebook - Eric Digo Ritonga - Posts.png" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Facebook - Eric Digo Ritonga - Overview.png" style="border-radius: 0.5rem;">
+										<img src="./images/eric_ritonga/Facebook - Eric Digo Ritonga - Overview.png" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Facebook - Eric Digo Ritonga - Work.png" style="border-radius: 0.5rem;">
+										<img src="./images/eric_ritonga/Facebook - Eric Digo Ritonga - Work.png" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Facebook - Eric Digo Ritonga - Contact.png" style="border-radius: 0.5rem;">
+										<img src="./images/eric_ritonga/Facebook - Eric Digo Ritonga - Contact.png" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Facebook - Eric Digo Ritonga - Details.png" style="border-radius: 0.5rem;">
+										<img src="./images/eric_ritonga/Facebook - Eric Digo Ritonga - Details.png" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Facebook - Eric Digo Ritonga - Photos.png" style="border-radius: 0.5rem;">
+										<img src="./images/eric_ritonga/Facebook - Eric Digo Ritonga - Photos.png" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Facebook - Eric Digo Ritonga - Image 1.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/eric_ritonga/Facebook - Eric Digo Ritonga - Image 1.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Facebook - Eric Digo Ritonga - Image 1 reactions.png" style="border-radius: 0.5rem;">
+										<img src="./images/eric_ritonga/Facebook - Eric Digo Ritonga - Image 1 reactions.png" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Facebook - Eric Digo Ritonga - Image 2.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/eric_ritonga/Facebook - Eric Digo Ritonga - Image 2.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Facebook - Eric Digo Ritonga - Image 2 reactions.png" style="border-radius: 0.5rem;">
+										<img src="./images/eric_ritonga/Facebook - Eric Digo Ritonga - Image 2 reactions.png" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/Facebook - Eric Digo Ritonga - Friends.png" style="border-radius: 0.5rem;">
+										<img src="./images/eric_ritonga/Facebook - Eric Digo Ritonga - Friends.png" style="border-radius: 0.5rem;">
 									</figure>
 								</details>
 							</li>
@@ -1007,13 +1007,13 @@
 							<details>
 									<summary><p style="display: inline">Screenshots and images:</p></summary>
 									<figure style="margin: 1rem;">
-										<img src="./images/Eric Digo Ritonga - LinkedIn.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/eric_ritonga/Eric Digo Ritonga - LinkedIn.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/linkedin - eric digo ritonga.png" style="border-radius: 0.5rem;">
+										<img src="./images/eric_ritonga/linkedin - eric digo ritonga.png" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/linkedin - eric digo ritonga - skills.png" style="border-radius: 0.5rem;">
+										<img src="./images/eric_ritonga/linkedin - eric digo ritonga - skills.png" style="border-radius: 0.5rem;">
 									</figure>
 								</details>
 						</ul>
@@ -1030,23 +1030,23 @@
 								</li>
 							</ul>
 							<figure style="margin: 1rem;">
-								<img src="./images/Banten_1.png" style="border-radius: 0.5rem;">
+								<img src="./images/eric_ritonga/Banten_1.png" style="border-radius: 0.5rem;">
 								<figcaption>Banten (Context. See red outline in lower left quadrant)</figcaption>
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/Banten_2.png" style="border-radius: 0.5rem;">
+								<img src="./images/eric_ritonga/Banten_2.png" style="border-radius: 0.5rem;">
 								<figcaption>Banten (Closer)</figcaption>
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/Hotel Graha Somaya 1.png" style="border-radius: 0.5rem;">
+								<img src="./images/eric_ritonga/Hotel Graha Somaya 1.png" style="border-radius: 0.5rem;">
 								<figcaption>Hotel Graha Somaya (Context) [in his Facebook likes]</figcaption>
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/Hotel Graha Somaya 2.png" style="border-radius: 0.5rem;">
+								<img src="./images/eric_ritonga/Hotel Graha Somaya 2.png" style="border-radius: 0.5rem;">
 								<figcaption>Hotel Graha Somaya (Closer) [in his Facebook likes]</figcaption>
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/Tangerang.png" style="border-radius: 0.5rem;">
+								<img src="./images/eric_ritonga/Tangerang.png" style="border-radius: 0.5rem;">
 								<figcaption>Tangerang</figcaption>
 							</figure>
 						</details>
@@ -1283,76 +1283,76 @@
 								<details>
 									<summary><p style="display: inline">Screenshots and images</p></summary>
 									<figure style="margin: 1rem;">
-										<img src="./images/1627279249363.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1627279249363.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/1557015636458.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1557015636458.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/LinkedIn - Rinaldo Ritonga.png" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/LinkedIn - Rinaldo Ritonga.png" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/LinkedIn - Rinaldo Ritonga - Older.png" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/LinkedIn - Rinaldo Ritonga - Older.png" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/LinkedIn - Rinaldo Ritonga - Experience.png" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/LinkedIn - Rinaldo Ritonga - Experience.png" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/LinkedIn - Rinaldo Ritonga - Skills.png" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/LinkedIn - Rinaldo Ritonga - Skills.png" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/LinkedIn - Rinaldo Ritonga - Volunteering.png" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/LinkedIn - Rinaldo Ritonga - Volunteering.png" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/LinkedIn - Rinaldo Ritonga - Activity.png" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/LinkedIn - Rinaldo Ritonga - Activity.png" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/1555626187460.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1555626187460.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/1558047233815.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1558047233815.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/1558047233961.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1558047233961.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/1558047235203.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1558047235203.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/1560110704423.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1560110704423.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/1560110705109.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1560110705109.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/1560110705158.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1560110705158.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/1560713892110.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1560713892110.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/1561161973965.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1561161973965.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/1561161974094.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1561161974094.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/1567024352618.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1567024352618.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/1660786432945.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1660786432945.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/1660786439626.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1660786439626.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/1671918666248.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1671918666248.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/1671918667630.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1671918667630.jpg" style="border-radius: 0.5rem;">
 									</figure>
 									<figure style="margin: 1rem;">
-										<img src="./images/1671918667852.jpg" style="border-radius: 0.5rem;">
+										<img src="./images/rinaldo_ritonga/1671918667852.jpg" style="border-radius: 0.5rem;">
 									</figure>
 								</details>
 							</li>
@@ -1405,15 +1405,15 @@
 										<details>
 											<summary><p style="display: inline">Screenshots:</p></summary>
 											<figure style="margin: 1rem;">
-												<img src="./images/Temple City 1.png" style="border-radius: 0.5rem;">
+												<img src="./images/rinaldo_ritonga/Temple City 1.png" style="border-radius: 0.5rem;">
 												<figcaption>Temple City (Context)</figcaption>
 											</figure>
 											<figure style="margin: 1rem;">
-												<img src="./images/Temple City 2.png" style="border-radius: 0.5rem;">
+												<img src="./images/rinaldo_ritonga/Temple City 2.png" style="border-radius: 0.5rem;">
 												<figcaption>Temple City (Closer)</figcaption>
 											</figure>
 											<figure style="margin: 1rem;">
-												<img src="./images/Rinaldo Ritonga - Locations.png" style="border-radius: 0.5rem;">
+												<img src="./images/rinaldo_ritonga/Rinaldo Ritonga - Locations.png" style="border-radius: 0.5rem;">
 												<figcaption>Present / past locations (exact addresses and phone numbers redacted, contact me for unredacted version)</figcaption>
 											</figure>
 										</details>
@@ -1471,28 +1471,28 @@
 				<details>
 					<summary>Screenshots of some messages:</summary>
 					<figure style="margin: 1rem;">
-						<img src="./images/spam_2.png" style="border-radius: 0.5rem;">
+						<img src="./images/phishing_emails/spam_2.png" style="border-radius: 0.5rem;">
 					</figure>
 					<figure style="margin: 1rem;">
-						<img src="./images/spam_3.png" style="border-radius: 0.5rem;">
+						<img src="./images/phishing_emails/spam_3.png" style="border-radius: 0.5rem;">
 					</figure>
 					<figure style="margin: 1rem;">
-						<img src="./images/spam_4.png" style="border-radius: 0.5rem;">
+						<img src="./images/phishing_emails/spam_4.png" style="border-radius: 0.5rem;">
 					</figure>
 					<figure style="margin: 1rem;">
-						<img src="./images/spam_5.png" style="border-radius: 0.5rem;">
+						<img src="./images/phishing_emails/spam_5.png" style="border-radius: 0.5rem;">
 					</figure>
 					<figure style="margin: 1rem;">
-						<img src="./images/spam_1.png" style="border-radius: 0.5rem;">
+						<img src="./images/phishing_emails/spam_1.png" style="border-radius: 0.5rem;">
 					</figure>
 					<figure style="margin: 1rem;">
-						<img src="./images/spam_6.png" style="border-radius: 0.5rem;">
+						<img src="./images/phishing_emails/spam_6.png" style="border-radius: 0.5rem;">
 					</figure>
 					<figure style="margin: 1rem;">
-						<img src="./images/spam_7.png" style="border-radius: 0.5rem;">
+						<img src="./images/phishing_emails/spam_7.png" style="border-radius: 0.5rem;">
 					</figure>
 					<figure style="margin: 1rem;">
-						<img src="./images/spam_8.png" style="border-radius: 0.5rem;">
+						<img src="./images/phishing_emails/spam_8.png" style="border-radius: 0.5rem;">
 					</figure>
 				</details>
 			</li>
@@ -1509,7 +1509,7 @@
 				<details>
 					<summary>Screenshot of some messages:</summary>
 					<figure style="margin: 1rem;">
-						<img src="./images/twitter_bots.jpg" style="border-radius: 0.5rem;">
+						<img src="./images/twitter_fake_accounts/twitter_bots.jpg" style="border-radius: 0.5rem;">
 					</figure>
 				</details>
 				</li>
@@ -1620,7 +1620,7 @@
 					<li>
 						<details>
 							<summary><p style="display: inline">Screenshot (October 13)</p></summary>
-							<img src="./images/linkedin_view.png" style="border-radius: 0.5rem;">
+							<img src="./images/other/linkedin_view.png" style="border-radius: 0.5rem;">
 						</details>
 					</li>
 				</ul>
@@ -1630,7 +1630,7 @@
 					<li>
 						<details>
 							<summary><p style="display: inline">Screenshot</p></summary>
-							<img src="./images/phish_text_11.png" style="border-radius: 0.5rem;">
+							<img src="./images/phishing_text_messages/phish_text_11.png" style="border-radius: 0.5rem;">
 						</details>
 					</li>
 					<li>Possible connection with many other phishing texts received in past which I will document below.
@@ -1658,7 +1658,7 @@
 					<li>
 						<details>
 							<summary><p style="display: inline">Screenshot</p></summary>
-							<img src="./images/spam_8.png" style="border-radius: 0.5rem;">
+							<img src="./images/phishing_emails/spam_8.png" style="border-radius: 0.5rem;">
 						</details>
 					</li>
 					<li>The e-mail address is similar to those of two other phishing e-mails I have received : _@_.biglobe.ne.jp.
@@ -1712,7 +1712,7 @@
 					<li>
 						<details>
 							<summary><p style="display: inline">Screenshot</p></summary>
-							<img src="./images/phish_text_12.png" style="border-radius: 0.5rem;">
+							<img src="./images/phishing_text_messages/phish_text_12.png" style="border-radius: 0.5rem;">
 						</details>
 					</li>
 				</ul>
@@ -1744,7 +1744,7 @@
 					<li>
 						<details>
 							<summary><p style="display: inline">Screenshot</p></summary>
-							<img src="./images/phish_text_13.png" style="border-radius: 0.5rem;">
+							<img src="./images/phishing_text_messages/phish_text_13.png" style="border-radius: 0.5rem;">
 							<figcaption>Full sender e-mail address not visible on screen: my-jpchaseusercenter-msgaxfxmco@careers.mn.gov</figcaption>
 						</details>
 					</li>
@@ -1765,7 +1765,7 @@
 													<li>
 														<details>
 															<summary><p style="display: inline">George Floyd autopsy report</p></summary>
-															<img src="./images/george_floyd_overdose.png" style="border-radius: 0.5rem;">
+															<img src="./images/memes/george_floyd_overdose.png" style="border-radius: 0.5rem;">
 														</details>
 													</li>
 												</ul>
@@ -1820,6 +1820,124 @@
 			</li>
 		</ul>
 	</li>
+	<li>November 17-22
+		<ul>
+			<li>Four new phishing e-mails received roughly a month after previous phishing attempt (October 21).
+			</li>
+			<li>Two received November 17th, another on the 21st, and another on the 22nd.
+				<ul>
+					<li>
+						<details>
+							<summary><p style="display: inline">Screenshots</p></summary>
+							<img src="./images/phishing_emails/spam_dutch_1.png" style="border-radius: 0.5rem;">
+							<img src="./images/phishing_emails/spam_dutch_2.png" style="border-radius: 0.5rem;">
+							<img src="./images/phishing_emails/spam_dutch_3.png" style="border-radius: 0.5rem;">
+							<img src="./images/phishing_emails/spam_dutch_4.png" style="border-radius: 0.5rem;">
+						</details>
+					</li>
+				</ul>
+			</li>
+			<li>Content of messages seems to be identical.
+			</li>
+			<li>Translations:
+				<ul>
+					<li>
+						<details>
+							<summary><p style="display: inline">Titles</p></summary>
+							<ul>
+								<li>1. Identificatie vereist, het gebruik van uw Card is tijdelijk beperkt.
+									<ul>
+										<li>Identification required, the use of your Card is temporarily limited
+										</li>
+									</ul>
+								</li>
+								<li>2. Identificatie vereist, het gebruik van uw Card is tijdelijk beperkt.
+									<ul>
+										<li>Identification required, the use of your Card is temporarily limited
+										</li>
+									</ul>
+								</li>
+								<li>3. Het gebruik van uw Card is tijdelijk beperkt.
+									<ul>
+										<li>The use of your Card is temporarily limited
+										</li>
+									</ul>
+								</li>
+								<li>4. Uw heeft een nieuw bericht ontvangen van card alerts
+									<ul>
+										<li>You have received a new message from card alerts
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</details>
+					</li>
+					<li>
+						<details>
+							<summary><p style="display: inline">Content (see also: ./images/phishing_emails/spam_dutch_content.txt)</p></summary>
+							<p>
+								Your account statement is ready.
+								<br>
+								View the web version.
+								<br>
+								<br>
+								<br>
+								The use of your Card is temporarily limited
+								<br>
+								<br>
+								--
+								<br>
+								<br>
+								Dear sir / Madam,
+								<br>
+								<br>
+								To comply with legal requirements, we must periodically identify our customers. We have noticed that your account associated with #email# has not yet been re-identified and we would kindly ask you to do so as soon as possible
+								<br>
+								<br>
+								For security reasons, we have therefore temporarily limited your access to the online environment and your Card for use. Before we lift this restriction or replace your Card, we would like to check a number of details with you.
+								<br>
+								<br>
+								1. Go to <b>linkmn.gr/alert73682</b>, or you can copy and paste the URL into your browser, then follow the instructions.
+								<br>
+								2. You enter the information we have about you into our system.
+								<br>
+								3. You have now been identified and can enjoy all your privileges again
+								<br>
+								<br>
+								<b>Please note:</b> keep your ICS Credit Card and your mobile phone at hand
+								<br>
+								We hope to have informed you sufficiently and hope for your understanding and cooperation.
+								<br>
+								<br>
+								Yours sincerely,
+								<br>
+								International Card Services
+								<br>
+								<br>
+								--
+								<br>
+								<br>
+								This is an automatically generated message.
+								<br>
+								<br>
+								<br>
+								Beware of internet criminals
+								<br>
+								There are internet criminals trying to get personal information from our customers.
+								<br>
+								They send emails with which they try to lure customers to fake websites. Never give out your personal or financial information, passwords or codes on a website that you reach via email. We will also never call you and ask for personal information or login codes. Keep your information to yourself! For more information about reporting a suspicious email:
+								<br>
+								www.icscards.nl/internetcriminaliteit.
+								<br>
+								<br>
+								This message was sent by International Card Services BV, with its registered office at Wisselwerking 58 in (1112 XS) Diemen, registered in the Amsterdam Trade Register under number 33.200.596.
+							</p>
+						</details>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
 </ul>
 
 ---
@@ -1865,10 +1983,10 @@
 											<li>
 												<details>
 													<summary><p style="display: inline">"Don't you get it, you fucking fascist!?"</p></summary>
-													<img src="./images/blm_antifa.jpg" style="border-radius: 0.5rem;">
-													<img src="./images/5vvlgXuDtsWtIkAH9U98I.jpg" style="border-radius: 0.5rem;">
-													<img src="./images/TRW6laiiKmxlHl_6Y2Syc.jpg" style="border-radius: 0.5rem;">
-													<img src="./images/alm6FQ5w2haaf16rQSJeY.jpg" style="border-radius: 0.5rem;">
+													<img src="./images/memes/blm_antifa.jpg" style="border-radius: 0.5rem;">
+													<img src="./images/memes/5vvlgXuDtsWtIkAH9U98I.jpg" style="border-radius: 0.5rem;">
+													<img src="./images/memes/TRW6laiiKmxlHl_6Y2Syc.jpg" style="border-radius: 0.5rem;">
+													<img src="./images/memes/alm6FQ5w2haaf16rQSJeY.jpg" style="border-radius: 0.5rem;">
 												</details>
 											</li>
 											<li>Like most/all leftists/SJWs/Marxists/Communists/"anti-fascists" the Nazis:
@@ -1907,7 +2025,7 @@
 					<li>
 						<details>
 							<summary><p style="display: inline">Screenshot</p></summary>
-							<img src="./images/EDD fraud 1.png" style="border-radius: 0.5rem;">
+							<img src="./images/edd_fraud/EDD fraud 1.png" style="border-radius: 0.5rem;">
 						</details>
 					</li>
 					<li>The e-mail was received at the address associated with this GitHub account.
@@ -1946,7 +2064,7 @@
 							<li>
 								<details>
 									<summary><p style="display: inline">Screenshot</p></summary>
-									<img src="./images/EDD fraud 2.png" style="border-radius: 0.5rem;">
+									<img src="./images/edd_fraud/EDD fraud 2.png" style="border-radius: 0.5rem;">
 								</details>
 							</li>
 						</ul>
@@ -1967,52 +2085,52 @@
 						<details>
 							<summary><p style="display: inline">Screenshots</p></summary>
 							<figure style="margin: 1rem;">
-								<img src="./images/phish_text_1.png" style="border-radius: 0.5rem;">
+								<img src="./images/phishing_text_messages/phish_text_1.png" style="border-radius: 0.5rem;">
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/phish_text_2.png" style="border-radius: 0.5rem;">
+								<img src="./images/phishing_text_messages/phish_text_2.png" style="border-radius: 0.5rem;">
 								<figcaption>My phone number has been redacted.</figcaption>
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/phish_text_3.png" style="border-radius: 0.5rem;">
+								<img src="./images/phishing_text_messages/phish_text_3.png" style="border-radius: 0.5rem;">
 								<figcaption>My phone number has been redacted.</figcaption>
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/phish_text_4.png" style="border-radius: 0.5rem;">
+								<img src="./images/phishing_text_messages/phish_text_4.png" style="border-radius: 0.5rem;">
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/phish_text_5.png" style="border-radius: 0.5rem;">
+								<img src="./images/phishing_text_messages/phish_text_5.png" style="border-radius: 0.5rem;">
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/phish_text_6.png" style="border-radius: 0.5rem;">
+								<img src="./images/phishing_text_messages/phish_text_6.png" style="border-radius: 0.5rem;">
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/phish_text_7.png" style="border-radius: 0.5rem;">
+								<img src="./images/phishing_text_messages/phish_text_7.png" style="border-radius: 0.5rem;">
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/phish_text_8.png" style="border-radius: 0.5rem;">
+								<img src="./images/phishing_text_messages/phish_text_8.png" style="border-radius: 0.5rem;">
 								<figcaption>My phone number has been redacted. Full sender e-mail address not visible on screen: online.alert-banking-service-929@customersfirstacademy.com</figcaption>
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/phish_text_9.png" style="border-radius: 0.5rem;">
+								<img src="./images/phishing_text_messages/phish_text_9.png" style="border-radius: 0.5rem;">
 								<figcaption>My phone number has been redacted.</figcaption>
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/phish_text_10.png" style="border-radius: 0.5rem;">
+								<img src="./images/phishing_text_messages/phish_text_10.png" style="border-radius: 0.5rem;">
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/phish_text_10_vertical.png" style="border-radius: 0.5rem;">
+								<img src="./images/phishing_text_messages/phish_text_10_vertical.png" style="border-radius: 0.5rem;">
 								<figcaption>Vertical version of previous image showing full messages and dates</figcaption>
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/phish_text_11.png" style="border-radius: 0.5rem;">
+								<img src="./images/phishing_text_messages/phish_text_11.png" style="border-radius: 0.5rem;">
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/phish_text_12.png" style="border-radius: 0.5rem;">
+								<img src="./images/phishing_text_messages/phish_text_12.png" style="border-radius: 0.5rem;">
 								<figcaption>My phone number has been redacted.</figcaption>
 							</figure>
 							<figure style="margin: 1rem;">
-								<img src="./images/phish_text_13.png" style="border-radius: 0.5rem;">
+								<img src="./images/phishing_text_messages/phish_text_13.png" style="border-radius: 0.5rem;">
 								<figcaption>Full sender e-mail address not visible on screen: my-jpchaseusercenter-msgaxfxmco@careers.mn.gov</figcaption>
 							</figure>
 						</details>
